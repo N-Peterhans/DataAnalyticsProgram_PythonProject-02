@@ -1,0 +1,983 @@
+Boat Type,Manufacturer,Type,Year Built,Length,Width,Material,EUR_price,Country,City,Number of views last 7 days
+Center console boat,Terhi power boats,new boat from stock,2020.0,4.0,1.5,Thermoplastic,3490.0,Germany, BÃ¶nningstedt,75
+Fishing Boat,Linder power boats,new boat from stock,2019.0,3.55,1.46,Aluminium,3399.0,Germany, Bayern ,58
+Sport Boat,GS Nautica power boats,Used boat,2004.0,4.7,2.0,GRP,3500.0,Italy, Lake Garda ,69
+Runabout,Kimple power boats,new boat from stock,2020.0,4.4,1.65,Aluminium,4554.0,Switzerland, Zugersee ,113
+Fishing Boat,Linder power boats,new boat from stock,2019.0,3.55,1.46,Aluminium,3999.0,Germany, Bayern ,69
+Fishing Boat,Linder power boats,new boat from stock,2018.0,3.55,1.46,Aluminium,3989.7,Switzerland, VierwaldstÃ¤ttersee ,130
+Fishing Boat,Terhi power boats,new boat from stock,2020.0,4.01,1.5,Thermoplastic,3935.25,Switzerland, Horgen,512
+Sport Boat,MÃ¤ndli power boats,Used boat,1996.0,4.84,1.58,GRP,3910.5,Switzerland, Lake of Zurich ,202
+Sport Boat,Corsiva power boats,new boat from stock,2018.0,5.2,2.2,GRP,5500.0,Germany, Berlin ,186
+Sport Boat,Ilver power boats,Used boat,1961.0,5.5,2.06,GRP,5500.0,Italy, emilia,74
+Sport Boat,Skibsplast power boats,Used boat,1980.0,5.85,2.23,GRP,5841.0,Switzerland, Faoug ,543
+Fishing Boat,Linder power boats,new boat from stock,2018.0,4.01,1.64,Aluminium,5399.0,Germany, Bayern ,67
+Fishing Boat,Viking power boats,new boat from stock,2020.0,4.2,1.85,Aluminium,5200.0,Germany, Erftstadt,141
+Sport Boat,Staempfli power boats,Used boat,1968.0,4.05,1.58,GRP,5445.0,Switzerland, Neuenburgersee ,278
+Runabout,Kimple power boats,new boat from stock,2020.0,4.0,1.65,Aluminium,5445.0,Switzerland, Zugersee ,99
+Deck Boat,Corsiva power boats,new boat from stock,2018.0,5.7,2.2,GRP,6500.0,Germany, Berlin ,122
+Cabin Boat,Hille power boats,Unleaded,1994.0,4.75,1.86,GRP,6490.0,Germany, Verkaufshafen Brandenburg-Plaue,126
+Sport Boat,Bienchen  power boats,Used boat,2018.0,3.2,1.5,GRP,6930.0,Switzerland, Murtensee ,238
+Center console boat,Allegra power boats,Used boat,2018.0,5.3,2.2,GRP,8500.0,Italy, Lombardia - Trentino Alto Adige ,165
+Trawler,Gouwerok power boats,Used boat,1980.0,8.5,3.0,Steel,9750.0,Netherlands, Sneek,183
+Cabin Boat,Crescent power boats,Unleaded,1992.0,5.65,2.2,GRP,9599.0,Germany, Verkaufshafen Brandenburg-Plaue,185
+Sport Boat,Sting power boats,new boat from stock,2016.0,4.88,2.03,GRP,9575.0,Germany, Grevenbroich,64
+Motor Yacht,Moonday power boats,new boat from stock,2019.0,4.8,2.0,GRP,9553.0,Netherlands, Lemmer,91
+Cabin Boat,Gouwerok power boats,Used boat,1964.0,8.4,2.85,Steel,9500.0,Netherlands, In verkoophaven,138
+Pontoon Boat,MÃ¤ndli power boats,Used boat,2006.0,7.0,1.9,Wood,10890.0,Switzerland, Beringen,230
+Sport Boat,Italmar power boats,new boat from stock,2020.0,4.99,2.1,GRP,10115.0,Germany, Wesel,115
+Runabout,Safter Marine power boats,new boat on order,2020.0,4.5,1.65,GRP,10791.0,Switzerland, Zugersee ,159
+Sport Boat,Bayliner power boats,Used boat,1988.0,6.3,2.34,GRP,11000.0,Italy, Friuli-Venezia Giulia,284
+Cabin Boat,Stingray power boats,Used boat,1997.0,6.5,2.4,GRP,11000.0,Italy, Venezia,229
+Sport Boat,Bayliner power boats,Used boat,1987.0,7.62,2.97,GRP,11000.0,Netherlands, In verkoophaven,254
+Deck Boat,Quicksilver (Brunswick Marine) power boats,new boat from stock,2020.0,5.07,2.12,GRP,10999.0,Germany, Kieler Bucht mit Fehmarn ,150
+Sport Boat,Remus power boats,new boat from stock,2020.0,5.2,2.22,GRP,10999.0,Germany, Nordrhein-Westfalen ,179
+Cabin Boat,Polar power boats,Diesel,1977.0,6.7,2.3,GRP,10990.0,Germany, Ostsee ,136
+Sport Boat,Atlantic Marine power boats,new boat from stock,2019.0,5.3,2.39,GRP,12820.5,Switzerland, Kesswil ,284
+Runabout,Safter Marine power boats,new boat from stock,2020.0,5.0,1.9,GRP,12771.0,Switzerland, Zugersee ,273
+Bowrider,Maxima power boats,new boat from stock,2020.0,4.9,1.9,GRP,12770.0,Germany, Lake Constance ,180
+Cabin Boat,Compromis power boats,Used boat,1983.0,7.2,2.85,GRP,12500.0,Netherlands, In verkoophaven,165
+Bowrider,Yamarin power boats,new boat from stock,2018.0,4.57,1.93,GRP,14553.0,Switzerland, VierwaldstÃ¤ttersee ,212
+Motor Yacht,Bayliner power boats,Used boat,1995.0,7.75,2.57,GRP,13500.0,Netherlands, In verkoophaven,83
+Fishing Boat,Smartliner power boats,new boat on order,2020.0,5.76,2.25,GRP,15444.0,Switzerland, Lake Geneva ,292
+Runabout,Karnic power boats,new boat from stock,2018.0,4.9,2.08,GRP,14366.0,Germany, Lake Constance ,119
+Sport Boat,Romar power boats,new boat from stock,2019.0,5.68,1.99,GRP,14200.0,Switzerland, Diessenhoen,285
+Sport Boat,Gobbi power boats,Used boat,1997.0,9.15,3.0,GRP,14000.0,Italy, Veneto ,281
+Fishing Boat,Vizion power boats,new boat from stock,2019.0,4.7,1.95,Aluminium,14900.0,Germany, Berlin ,70
+Trawler,Hoekstra power boats,Used boat,1976.0,9.5,3.2,Steel,15500.0,Netherlands, In verkoophaven,253
+Cabin Boat,Quicksilver (Brunswick Marine) power boats,new boat from stock,2020.0,5.5,2.29,GRP,15499.0,Germany, Kieler Bucht mit Fehmarn ,219
+Center console boat,Jeanneau power boats,new boat on order,2020.0,5.48,2.36,GRP,15446.0,Germany, BÃ¶nningstedt / Werft,56
+Center console boat,Ranieri power boats,new boat from stock,2019.0,6.0,2.25,GRP,15400.0,Italy, Lombardia - Trentino Alto Adige ,116
+Center console boat,Jeanneau power boats,new boat from stock,2020.0,5.48,2.36,GRP,16220.0,Germany, BÃ¶nningstedt / Werft,99
+Sport Boat,AMT power boats,new boat from stock,2019.0,5.15,2.08,GRP,16190.0,Germany, auf Anfrage,60
+Pilothouse,Smartliner power boats,new boat on order,2020.0,6.4,2.25,GRP,17226.0,Switzerland, Lake Geneva ,399
+Center console boat,Morningstar power boats,new boat from stock,2019.0,5.0,2.0,Aluminium,17226.0,Switzerland, VierwaldstÃ¤ttersee ,149
+Trawler,GioMare power boats,Used boat,1995.0,5.7,2.8,GRP,16900.0,Rovinij,,172
+Bowrider,Bella power boats,Display Model,2019.0,5.01,2.01,GRP,18077.4,Switzerland, VierwaldstÃ¤ttersee ,339
+Sport Boat,Yamarin power boats,new boat from stock,2020.0,5.53,2.24,GRP,16870.0,Germany, Nordrhein-Westfalen ,127
+Fishing Boat,Lund Boats power boats,new boat from stock,2020.0,4.95,2.03,Aluminium,18018.0,Switzerland, Lake Geneva ,241
+Trawler,Pedro power boats,Used boat,1984.0,8.6,2.8,Steel,17500.0,Netherlands, In verkoophaven,149
+Center console boat,Clear power boats,new boat from stock,2020.0,6.15,2.27,GRP,18750.0,Germany, Lake Constance ,149
+Fishing Boat,Smartliner power boats,new boat from stock,2020.0,6.4,2.25,GRP,19899.0,Switzerland, Lake Geneva ,185
+Runabout,Safter Marine power boats,new boat from stock,2020.0,5.0,1.9,GRP,19701.0,Switzerland, Zugersee ,401
+Sport Boat,Yamarin power boats,new boat from stock,2020.0,4.86,1.96,Aluminium,18515.0,Germany, Nordrhein-Westfalen ,145
+Trawler,Beachcraft power boats,Used boat,1981.0,8.2,3.1,Steel,19500.0,Netherlands, In verkoophaven,118
+Cabin Boat,Waterland power boats,Used boat,1975.0,8.2,3.1,GRP,19500.0,Netherlands, In verkoophaven,101
+Cabin Boat,KOK power boats,Used boat,2005.0,6.1,2.25,Steel,19500.0,Netherlands, In verkoophaven,78
+Cabin Boat,Sea Ray power boats,Used boat,1996.0,8.95,2.59,GRP,19500.0,Steinwiesen,,778
+Cabin Boat,Bayliner power boats,Unleaded,2003.0,5.89,2.37,GRP,19490.0,Germany, MÃ¶lln,261
+Pontoon Boat,MÃ¤ndli power boats,new boat from stock,2020.0,9.0,1.7,Wood,20592.0,Switzerland, Beringen,235
+Motor Yacht,Crownline power boats,Used boat,1997.0,7.5,2.59,GRP,19900.0,Netherlands, Lemmer,122
+Pilothouse,Quicksilver (Brunswick Marine) power boats,new boat from stock,2020.0,5.75,2.54,GRP,20499.0,Germany, Kieler Bucht mit Fehmarn ,153
+Sport Boat,Sting power boats,new boat from stock,2018.0,6.08,2.37,GRP,20490.0,Germany, Nordrhein-Westfalen ,115
+Center console boat,Sting power boats,new boat from stock,2020.0,5.3,2.15,GRP,21888.9,Switzerland, VierwaldstÃ¤ttersee ,118
+Bowrider,Cranchi power boats,Used boat,1993.0,7.6,2.47,GRP,21780.0,Switzerland, Luganersee ,415
+Pilothouse,Atlantic Marine power boats,new boat from stock,2019.0,6.6,2.47,GRP,22770.0,Switzerland, Walensee ,394
+Sport Boat,Yamarin power boats,new boat from stock,2019.0,5.67,2.25,GRP,21090.0,Germany, auf Anfrage,135
+Cabin Boat,Kelt power boats,Used boat,1992.0,8.8,2.98,GRP,21000.0,Netherlands, In verkoophaven,146
+Motor Yacht,Tullio Abbate power boats,Unleaded,1991.0,10.8,2.5,GRP,22000.0,Germany, Konstanz,373
+Deck Boat,Yamarin power boats,new boat from stock,2020.0,5.28,2.09,Aluminium,22800.0,Germany, Nordrhein-Westfalen ,114
+Pilothouse,Jeanneau power boats,new boat on order,2020.0,5.79,2.46,GRP,22765.0,Germany, BÃ¶nningstedt,49
+Motor Yacht,Master power boats,new boat on order,2020.0,5.42,2.32,GRP,22680.0,France,,142
+Deck Boat,Yamarin power boats,new boat from stock,2020.0,6.25,2.3,GRP,22520.0,Germany, auf Anfrage,107
+Bowrider,Nordkapp power boats,new boat from stock,2017.0,6.06,2.2,GRP,23640.0,Germany, Grevenbroich,109
+Trawler,Cascaruda power boats,Diesel,1982.0,9.3,3.0,Steel,23500.0,Germany, Potsdam,164
+Sport Boat,Wellcraft power boats,Used boat,1992.0,8.35,2.5,GRP,24750.0,Switzerland, Lake of Zurich ,420
+Classic,Schneiter power boats,Used boat,1965.0,6.0,1.9,Wood,24750.0,Switzerland, Thunersee ,284
+Fishing Boat,The Captains power boats,new boat on order,2020.0,6.6,1.85,GRP,24750.0,Switzerland, Lake Constance ,888
+Deck Boat,AMT power boats,new boat from stock,2019.0,5.6,2.25,GRP,23290.0,Germany, auf Anfrage,84
+Fishing Boat,ERC power boats,new boat from stock,2020.0,5.3,2.0,GRP,25690.5,Switzerland, Lago Maggiore ,198
+Pontoon Boat,Cantieri Nautici Ferrario power boats,new boat from stock,2018.0,6.5,2.4,GRP,24900.0,Italy, Dormelletto ,110
+Motor Yacht,Bella power boats,Used boat,2008.0,6.5,2.42,GRP,24900.0,Croatia (Hrvatska), In verkoophaven,119
+Sport Boat,Saver power boats,Used boat,2001.0,7.45,2.64,GRP,25000.0,Italy, Toscana ,94
+Sport Boat,Bayliner power boats,Used boat,1991.0,9.81,3.41,GRP,25000.0,Slovenia,,197
+Cabin Boat,Scand power boats,Used boat,1983.0,7.62,2.8,GRP,25000.0,Netherlands, onbekend,160
+Pontoon Boat,Saver power boats,new boat from stock,2020.0,6.6,2.45,GRP,26800.0,Italy, Friuli Venezia Giulia ,94
+Center console boat,Morningstar power boats,new boat from stock,2019.0,5.0,2.0,Aluminium,28611.0,Switzerland, VierwaldstÃ¤ttersee ,158
+Deck Boat,Sessa power boats,new boat from stock,2020.0,6.1,2.33,GRP,26620.0,Italy, Toscana ,224
+Bowrider,Bella power boats,Display Model,2018.0,5.3,2.2,GRP,28413.0,Switzerland, VierwaldstÃ¤ttersee ,198
+Center console boat,Jeanneau power boats,new boat from stock,2020.0,6.77,2.48,GRP,26537.0,Germany, BÃ¶nningstedt,55
+Fishing Boat,Smartliner power boats,new boat from stock,2020.0,6.28,2.24,GRP,28908.0,Switzerland, Lake Geneva ,228
+Working Boat,Viking power boats,new boat from stock,2020.0,7.52,2.43,Aluminium,27900.0,Germany, Erftstadt,227
+Sport Boat,Sting power boats,new boat from stock,2016.0,6.08,2.37,GRP,27900.0,Germany, Grevenbroich,111
+Pilothouse,Marinello power boats,new boat from stock,2018.0,6.5,2.48,GRP,27900.0,Germany, Stadtprozelten,308
+Working Boat,Viking power boats,new boat from stock,2020.0,7.65,2.48,Aluminium,28500.0,Germany, Erftstadt,252
+Cabin Boat,Skarpnes power boats,Used boat,1984.0,9.1,3.3,GRP,29900.0,Netherlands, In verkoophaven,94
+Fishing Boat,FÃ¼llemann power boats,new boat from stock,2018.0,6.03,1.9,GRP,32402.7,Switzerland, Lake Constance ,164
+Sport Boat,Gobbi power boats,Unleaded,1996.0,8.73,2.98,GRP,32000.0,Germany, Zadar,64
+Cabin Boat,Bella power boats,Used boat,2005.0,6.5,2.42,GRP,34155.0,Switzerland, Luganersee ,535
+Trawler,Pedro power boats,Used boat,1982.0,8.6,2.8,Steel,32500.0,Netherlands, In verkoophaven,146
+Runabout,AYROS power boats,new boat from stock,2019.0,6.99,2.55,GRP,32500.0,Italy, Lombardia - Trentino Alto Adige ,81
+Sport Boat,IRON power boats,new boat on order,2020.0,6.52,2.44,GRP,33000.0,Germany, Kiel,87
+Sport Boat,Cranchi power boats,Used boat,2002.0,8.5,3.0,GRP,33000.0,Italy, Mar Ligure,187
+Deck Boat,Sunchaser power boats,Used boat,2019.0,6.17,2.5,Aluminium,34000.0,Italy, Lago Maggiore ,80
+Fishing Boat,Osprey power boats,new boat from stock,2000.0,8.0,2.8,GRP,34900.0,Netherlands, In verkoophaven,128
+Pilothouse,Jeanneau power boats,new boat from stock,2019.0,6.4,2.45,GRP,34828.0,Switzerland, Lake Constance ,220
+Sport Boat,Crownline power boats,Used boat,2009.0,6.83,2.59,GRP,35000.0,Italy, lombardia,160
+Motor Yacht,Sea Ray power boats,Used boat,1990.0,9.3,3.2,GRP,35000.0,Germany, Brandenburg,158
+Motor Yacht,Gillissen power boats,Used boat,1968.0,9.7,3.3,Steel,35000.0,Netherlands, In verkoophaven,49
+Sport Boat,Bella power boats,new boat from stock,2019.0,6.58,2.38,GRP,37570.5,Switzerland, VierwaldstÃ¤ttersee ,283
+Center console boat,Jeanneau power boats,new boat from stock,2020.0,7.74,2.52,GRP,36414.0,Germany, BÃ¶nningstedt,65
+Bowrider,Nordkapp power boats,new boat from stock,2019.0,6.06,2.2,GRP,40054.409999999996,Switzerland, VierwaldstÃ¤ttersee ,172
+Pilothouse,AMT power boats,new boat from stock,2020.0,6.4,2.4,GRP,37000.0,Germany, auf Anfrage,109
+Pontoon Boat,Saver power boats,Used boat,2020.0,7.75,2.55,GRP,38000.0,Italy, Friuli Venezia Giulia ,131
+Pilothouse,Jeanneau power boats,new boat on order,2020.0,7.43,2.81,GRP,38794.0,Germany, BÃ¶nningstedt,60
+Pilothouse,Yamarin power boats,new boat from stock,2020.0,6.05,2.32,Aluminium,39000.0,Germany, Nordrhein-Westfalen ,164
+Cabin Boat,Biam power boats,Used boat,1995.0,8.35,2.85,GRP,39750.0,Netherlands, In verkoophaven,144
+Fishing Boat,Ocean Master (US) power boats,Used boat,1992.0,9.24,3.1,GRP,42372.0,Switzerland, Lago Maggiore ,359
+Sport Boat,Marinello power boats,new boat from stock,2010.0,6.8,2.49,GRP,39500.0,Germany, Hock Boote,66
+Motor Yacht,Four Winns power boats,Used boat,2019.0,6.1,2.54,GRP,39999.0,Germany, IM VORLAUF,126
+Pilothouse,Quicksilver (Brunswick Marine) power boats,new boat from stock,2020.0,7.76,2.85,GRP,40999.0,Germany, Kieler Bucht mit Fehmarn ,208
+Sport Boat,Scarani power boats,Used boat,2005.0,8.8,3.0,GRP,40800.0,Switzerland, Lago Maggiore ,293
+Pilothouse,AMT power boats,Display Model,2017.0,5.5,2.24,GRP,43550.1,Switzerland, VierwaldstÃ¤ttersee ,181
+Deck Boat,Quicksilver (Brunswick Marine) power boats,new boat from stock,2020.0,7.88,2.55,GRP,42499.0,Germany, Kieler Bucht mit Fehmarn ,176
+Deck Boat,Sessa power boats,new boat from stock,2020.0,7.0,2.5,GRP,42300.0,Italy, Toscana ,200
+Motor Yacht,Airon Marine power boats,Used boat,2002.0,9.68,3.02,PVC,43000.0,France,,161
+Pontoon Boat,Saver power boats,Used boat,2020.0,9.0,2.72,GRP,44000.0,Italy, Friuli Venezia Giulia ,167
+Passenger boat,Invictus power boats,new boat from stock,2019.0,7.25,2.5,GRP,45000.0,Switzerland, Lake Geneva ,170
+Cabin Boat,Marex power boats,Used boat,1988.0,10.0,3.27,GRP,43550.0,Denmark, SÃ¸nderjylland,159
+Motor Yacht,Fairline power boats,Used boat,1996.0,9.86,3.24,GRP,45000.0,Croatia (Hrvatska), onbekend,281
+Center console boat,Scanner power boats,Used boat,2019.0,7.07,2.85,GRP,46000.0,Croatia (Hrvatska), onbekend,82
+Pilothouse,Quicksilver power boats,Used boat,2015.0,6.55,2.54,GRP,45370.0,Denmark, SydsjÃ¦lland,100
+Sport Boat,Conam power boats,Used boat,1997.0,11.98,3.5,GRP,48000.0,Italy, Campania ,109
+Deck Boat,Boston Whaler power boats,Used boat,2012.0,5.74,2.43,GRP,48000.0,Netherlands, In verkoophaven,46
+Sport Boat,Rinker power boats,Used boat,2007.0,8.3,2.59,GRP,48000.0,Belgium, Maaseik (BE),245
+Cabin Boat,Maril power boats,Used boat,2001.0,9.0,2.7,GRP,49450.0,Netherlands, In verkoophaven,125
+Pilothouse,Flipper power boats,new boat from stock,2019.0,6.6,2.48,GRP,53361.0,Switzerland, VierwaldstÃ¤ttersee ,186
+Sport Boat,Sea Ray power boats,new boat from stock,2019.0,5.97,2.54,GRP,49850.0,Germany, Bayern ,54
+Sport Boat,Sea Ray power boats,new boat from stock,2019.0,5.97,2.54,GRP,49999.0,Germany, Bayern ,67
+Sport Boat,IRON power boats,new boat on order,2020.0,6.52,2.44,GRP,49999.0,Germany, Kiel,64
+Sport Boat,NUVA Yachts power boats,Display Model,2019.0,5.99,2.49,GRP,49950.0,Germany, LÃ¼becker Bucht ,160
+Deck Boat,BÃ©nÃ©teau power boats,new boat from stock,2020.0,7.98,2.97,GRP,50200.0,Italy,,67
+Pilothouse,Yamarin power boats,new boat from stock,2020.0,6.77,2.54,GRP,52000.0,Germany, auf Anfrage,270
+Sport Boat,Raffaelli power boats,Used boat,1989.0,11.98,4.0,GRP,52000.0,Italy, Sardegna ,52
+Motor Yacht,Storebro power boats,Used boat,1981.0,10.34,3.25,GRP,51350.0,Denmark, SÃ¸nderjylland,281
+Pilothouse,BÃ©nÃ©teau power boats,new boat from stock,2019.0,7.48,2.53,GRP,54490.0,Germany, 86368 Gersthofen  - Augsburg,218
+Motor Yacht,Menorquin power boats,Used boat,1996.0,9.14,3.52,GRP,55000.0,Spain, Mallorca ,113
+Bowrider,Maxima power boats,new boat from stock,2020.0,8.4,2.8,GRP,57035.0,Germany, Lake Constance ,363
+Flybridge,Piantoni (IT) power boats,Used boat,1989.0,13.11,4.41,GRP,57000.0,Italy, onbekend,57
+Flybridge,Sagemar power boats,Used boat,2004.0,13.3,4.0,GRP,58000.0,Italy, Sardegna ,162
+Motor Yacht,Vri-Jon power boats,Used boat,1991.0,11.4,3.85,Steel,59000.0,Netherlands, In verkoophaven,88
+Motor Yacht,Vri-Jon power boats,Used boat,1991.0,11.4,3.8,Steel,59000.0,Netherlands, Bezichtiging op afspraak/Call us for a visit/Bitte,75
+Pilothouse,Aquador power boats,Used boat,2011.0,7.04,2.48,GRP,59000.0,Netherlands, Lemmer,234
+Deck Boat,Quicksilver power boats,Used boat,2018.0,7.63,2.55,GRP,59000.0,Italy, Liguria ,70
+Trawler,Veha power boats,Used boat,1990.0,11.3,3.5,Steel,59000.0,Netherlands, In verkoophaven,86
+Motor Yacht,Vizianello power boats,Used boat,1989.0,12.5,3.65,GRP,59000.0,Italy,,58
+Motor Yacht,Rinker power boats,Used boat,2006.0,9.5,2.74,GRP,59900.0,Croatia (Hrvatska), INFO DD-YACHTING,141
+Cabin Boat,Hooveld power boats,Used boat,1978.0,10.8,3.15,Steel,59900.0,Netherlands, Gorinchem,83
+Cabin Boat,Stingray power boats,new boat from stock,2019.0,6.3,2.5,GRP,59900.0,Germany, Konstanz-Dettingen,177
+Motor Yacht,Diano power boats,Used boat,2003.0,23.9,6.1,Wood,60000.0,Italy, Genova,677
+Cabin Boat,Colombo power boats,Used boat,1978.0,9.4,3.0,GRP,60000.0,Italy, Lago Maggiore ,145
+Motor Yacht,Intermare power boats,Used boat,2004.0,9.1,3.0,GRP,62000.0,Italy, Toscana ,37
+Motor Yacht,BÃ©nÃ©teau power boats,Used boat,2005.0,9.8,3.11,GRP,65000.0,Italy, Mar Tirreno,129
+Trawler,Pedro power boats,Diesel,1979.0,10.5,3.3,Steel,65000.0,Germany, Mecklemburg Vorpommern,112
+Center console boat,Rhea power boats,new boat from stock,2020.0,7.5,2.8,PVC,66240.0,France,,59
+Pilothouse,AluForce power boats,new boat from stock,2020.0,8.7,2.55,Aluminium,67300.0,Germany, auf Anfrage,162
+Cabin Boat,Nor Star power boats,Used boat,1997.0,9.46,3.3,GRP,68900.0,Netherlands, In verkoophaven,148
+Cabin Boat,Ilver power boats,Used boat,2001.0,11.82,3.45,GRP,74052.0,Switzerland, Lago Maggiore ,327
+Center console boat,Sessa power boats,new boat from stock,2020.0,7.0,2.5,GRP,69700.0,Italy, Toscana ,113
+Trawler,De Boarnstream power boats,Used boat,1996.0,10.1,3.55,Steel,70000.0,Netherlands, In verkoophaven,121
+Pontoon Boat,Tornado power boats,Used boat,1989.0,11.0,3.86,GRP,70000.0,Italy, Toscana ,355
+Flybridge,Bayliner power boats,Used boat,1997.0,11.15,3.35,GRP,68900.0,Denmark, Nordjylland,192
+Cabin Boat,Marine Offshore power boats,Used boat,2017.0,7.7,2.6,Wood,72500.0,Netherlands, In verkoophaven,40
+Motor Yacht,Rinker power boats,Used boat,2003.0,11.28,3.66,GRP,72500.0,Netherlands, In verkoophaven,82
+Sport Boat,Sea Ray power boats,Used boat,2005.0,9.47,2.87,GRP,72500.0,Netherlands,,79
+Sport Boat,Windy power boats,Used boat,2000.0,8.4,2.6,GRP,79200.0,Switzerland, Lake Geneva ,455
+Motor Yacht,Bertram power boats,Used boat,1971.0,7.5,2.8,GRP,75000.0,Finland, HangÃ¶,68
+Center console boat,Gagliotta power boats,Used boat,2004.0,10.3,3.5,GRP,75000.0,Italy, Campania ,103
+Flybridge,Azimut power boats,Used boat,1996.0,11.44,3.96,GRP,75000.0,Italy, Toscana ,91
+Flybridge,Carnevali power boats,Used boat,2000.0,11.08,3.74,GRP,75000.0,Croatia (Hrvatska), onbekend,66
+Pilothouse,Jeanneau power boats,new boat from stock,2020.0,8.9,2.99,GRP,78540.0,Germany, BÃ¶nningstedt,90
+Pilothouse,Viknes power boats,Used boat,2004.0,8.51,2.97,GRP,79900.0,Netherlands, In verkoophaven,79
+Center console boat,Cranchi power boats,Used boat,2006.0,12.2,3.84,GRP,80000.0,Italy, Campania ,120
+Trawler,Super van Craft power boats,Used boat,1972.0,13.85,3.68,Steel,82500.0,Netherlands, onbekend,146
+Classic,Super van Craft power boats,Used boat,1965.0,14.35,4.15,Steel,82500.0,Netherlands, Vinkeveen(nl),179
+Trawler,Zijlmans power boats,Used boat,1995.0,13.0,4.0,Steel,84900.0,Netherlands, In verkoophaven,183
+Trawler,Pedro power boats,Used boat,1998.0,11.2,3.4,Steel,84500.0,Netherlands, In verkoophaven,103
+Pilothouse,Viknes power boats,Used boat,2005.0,8.52,2.97,GRP,81250.0,Denmark, SjÃ¦lland,138
+Sport Boat,Dellapasqua power boats,new boat from stock,2019.0,7.75,2.45,GRP,85000.0,Italy, Lake Garda ,81
+Flybridge,Dellapasqua power boats,Used boat,2004.0,11.3,3.5,GRP,85000.0,Italy, Campania ,62
+Motor Yacht,Doqueve power boats,Used boat,1997.0,12.5,4.2,GRP,85000.0,Spain, Murcia,39
+Motor Yacht,Cranchi power boats,Used boat,1999.0,10.35,3.49,GRP,85000.0,Spain, Alicante,55
+Motor Yacht,Sagemar power boats,Used boat,2004.0,11.9,3.9,GRP,85000.0,Italy, CATANIA,162
+Launch,Makma power boats,Used boat,2008.0,10.5,3.35,GRP,87000.0,Netherlands, onbekend,105
+Sport Boat,BÃ©nÃ©teau power boats,new boat from stock,2020.0,9.0,2.94,GRP,86990.0,France, France,106
+Sport Boat,Salpa power boats,new boat from stock,2018.0,7.6,2.53,GRP,92070.0,Switzerland, VierwaldstÃ¤ttersee ,197
+Motor Yacht,Amer power boats,Used boat,2010.0,8.7,2.5,GRP,88750.0,Netherlands, In verkoophaven,108
+Sport Boat,Four Winns power boats,new boat from stock,2019.0,6.58,2.55,GRP,94353.93,Switzerland, VierwaldstÃ¤ttersee ,199
+Trawler,Vacance power boats,Used boat,1998.0,11.2,3.6,Steel,89000.0,Netherlands, In verkoophaven,65
+Pilothouse,Aquador power boats,Used boat,2009.0,8.8,3.1,GRP,89000.0,Netherlands, Winterstalling,135
+Motor Yacht,Glacer power boats,Used boat,1989.0,13.98,4.12,Steel,90000.0,Netherlands, Lemmer (NL),55
+Motor Yacht,Vri-Jon power boats,Used boat,1997.0,12.1,3.8,Steel,97500.0,Netherlands, Roermond (NL),76
+Deck Boat,Moonday power boats,new boat from stock,2019.0,10.6,3.3,GRP,98500.0,Netherlands, Lemmer,60
+Cabin Boat,Eolo power boats,new boat from stock,2020.0,8.3,2.55,GRP,98300.0,Germany, Baden-WÃ¼rttemberg ,150
+Pilothouse,Rhea power boats,Used boat,2008.0,8.0,3.1,GRP,99000.0,France, onbekend,135
+Sport Boat,Four Winns power boats,Used boat,2016.0,8.0,2.54,GRP,99800.0,Germany, Bissendorf,154
+Motor Yacht,Sea Ray power boats,Used boat,1998.0,15.0,4.08,GRP,97500.0,Denmark, Nordjylland,130
+Runabout,Yamarin power boats,new boat from stock,2020.0,8.8,2.95,GRP,100185.0,Germany, auf Anfrage,142
+Sport Boat,AB Yachts power boats,Used boat,1994.0,16.72,4.4,GRP,105000.0,Italy, Toscana ,94
+Motor Yacht,Master power boats,new boat on order,2020.0,9.96,3.36,GRP,107880.0,France,,151
+Flybridge,Funcraft power boats,Used boat,1997.0,13.4,4.2,Steel,107500.0,Netherlands, Veessen,102
+Flybridge,Altair power boats,Used boat,2010.0,11.66,3.85,GRP,110000.0,Italy, Liguria ,146
+Flybridge,Dellapasqua power boats,Used boat,2006.0,11.3,3.5,GRP,120000.0,Italy, Sardegna ,93
+Motor Yacht,Pershing power boats,Used boat,2006.0,11.78,3.25,GRP,120000.0,Spain, Balearic Islands,128
+Cabin Boat,Regal power boats,new boat on order,2020.0,7.9,2.5,GRP,124900.0,Germany, Herford,89
+Hardtop,Seaway power boats,Used boat,2012.0,9.99,3.49,GRP,129000.0,Germany, RÃ¼gen,162
+Motor Yacht,Sessa power boats,Used boat,2009.0,12.9,3.86,GRP,129000.0,Malta,,83
+Trawler,Smelne power boats,Used boat,2005.0,11.2,3.8,Steel,129000.0,Netherlands, In verkoophaven,81
+Motor Yacht,Azimut power boats,Used boat,1997.0,12.35,3.98,GRP,130000.0,Italy, Campania ,128
+Wakeboard/Wakesurf,Nautique power boats,new boat from stock,2020.0,7.35,2.54,GRP,134000.0,Germany, Rheinland-Pfalz ,115
+Trawler,Smelne power boats,Used boat,1996.0,13.8,4.25,Steel,134000.0,Netherlands, Maastricht (NL),124
+Cabin Boat,Sea Ray power boats,new boat from stock,2020.0,8.1,2.56,GRP,133900.0,Germany, Boote Pfister GmbH Schwebheim / Schweinfurt,145
+Flybridge,Storebro power boats,Used boat,1994.0,11.77,3.85,GRP,129350.0,Denmark, Nordjylland,156
+Motor Yacht,Sea Ray power boats,Used boat,1992.0,15.0,4.65,GRP,135000.0,Germany, Hamburg ,110
+Flybridge,Neptunus power boats,Used boat,1996.0,12.9,4.2,GRP,135000.0,Netherlands, Hellevoetsluis (NL),65
+Center console boat,Innovazioni e Progetti power boats,Used boat,2005.0,12.66,4.15,GRP,135000.0,Italy, Campania ,65
+Motor Yacht,Smelne power boats,Used boat,2000.0,12.65,4.0,Steel,139000.0,Netherlands, In verkoophaven,90
+Motor Yacht,Proficiat power boats,Used boat,2006.0,11.75,3.84,Steel,139900.0,Germany, Hamburg ,114
+Trawler,Vedette power boats,Used boat,2019.0,8.45,3.23,GRP,139500.0,Netherlands, In verkoophaven,111
+Cabin Boat,Sea Ray power boats,new boat on order,2021.0,8.1,2.56,GRP,142900.0,Germany, Boote Pfister GmbH Schwebheim / Schweinfurt,75
+Sport Boat,Cranchi power boats,Used boat,2019.0,7.85,2.49,PVC,142576.0,France,,40
+Trawler,Marhen power boats,Used boat,2010.0,12.5,3.9,Steel,142500.0,Netherlands, Swifterbant,93
+Motor Yacht,Cranchi power boats,new boat on order,2020.0,9.85,2.98,PVC,145800.0,France,,159
+Fishing Boat,Robalo power boats,Used boat,2011.0,8.89,3.2,GRP,145000.0,Italy, Campania ,48
+Center console boat,Fiart Mare power boats,Used boat,2009.0,11.56,3.88,GRP,145000.0,Italy, Campania ,31
+Flybridge,Neptunus power boats,Used boat,1998.0,14.1,4.4,GRP,149000.0,Netherlands, In verkoophaven,140
+Flybridge,Altena power boats,Used boat,1986.0,14.95,4.4,Steel,149000.0,Netherlands, In verkoophaven,93
+Motor Yacht,Chris Craft power boats,Used boat,2017.0,8.13,2.6,GRP,148500.0,Netherlands, In verkoophaven,67
+Motor Yacht,Sarnico power boats,Used boat,1998.0,16.7,4.38,GRP,149500.0,Netherlands,,83
+Motor Yacht,Princess power boats,Used boat,1988.0,15.88,4.87,GRP,155000.0,Croatia (Hrvatska), onbekend,152
+Motor Yacht,Valk power boats,Used boat,1993.0,14.25,4.2,Steel,159000.0,Netherlands, Amsterdam,66
+Center console boat,Rapsody power boats,Used boat,2019.0,9.05,2.62,GRP,165000.0,Netherlands, In verkoophaven,79
+Center console boat,Cantieri di Sarnico power boats,Used boat,2008.0,12.72,3.88,GRP,165000.0,Italy, Toscana ,42
+Flybridge,Cranchi power boats,Used boat,2005.0,11.83,3.83,GRP,165000.0,Italy, Liguria ,89
+Sport Boat,Ventus power boats,Used boat,2013.0,9.3,2.65,Wood,165000.0,France,,34
+Motor Yacht,Valk power boats,Used boat,1993.0,14.9,4.3,Steel,169000.0,Netherlands, In verkoophaven,59
+Flybridge,Hatteras power boats,Used boat,1987.0,14.8,4.88,GRP,168000.0,Italy, Sardegna ,48
+Flybridge,President power boats,Used boat,1989.0,14.0,4.8,GRP,170000.0,Croatia (Hrvatska), onbekend,22
+Motor Yacht,Super van Craft power boats,Used boat,1989.0,15.0,4.5,Steel,175000.0,Netherlands, Grou (NL),111
+Motor Yacht,Sessa power boats,Used boat,2010.0,11.7,3.75,GRP,175000.0,Italy,,63
+Motor Yacht,Bavaria power boats,Used boat,2012.0,11.89,3.99,GRP,179000.0,Croatia (Hrvatska), Croatia,137
+Trawler,Menorquin power boats,Used boat,2002.0,15.95,5.0,GRP,179000.0,Netherlands, Lithoijen  (NL),70
+Motor Yacht,Elling power boats,Used boat,1999.0,13.2,4.25,GRP,179000.0,Netherlands, In verkoophaven,118
+Hardtop,Elan power boats,Used boat,2008.0,13.0,3.9,GRP,179000.0,Netherlands,,142
+Motor Yacht,Atlantic Motor Yachts power boats,Used boat,1999.0,13.1,4.25,GRP,179000.0,Netherlands, In verkoophaven,105
+Hardtop,Sessa power boats,Used boat,2010.0,11.5,3.75,GRP,180000.0,Italy, Campania ,61
+Motor Yacht,Prestige Yachts power boats,Used boat,2008.0,11.92,3.89,GRP,180000.0,Netherlands,,105
+Motor Yacht,Astondoa power boats,Used boat,1998.0,15.4,4.65,GRP,180000.0,Spain, Denia,101
+Motor Yacht,Aquador power boats,Used boat,2018.0,9.15,3.1,GRP,187000.0,Finland, BorgÃ¥,120
+Motor Yacht,Neptunus power boats,Used boat,2009.0,11.7,3.89,GRP,189000.0,Netherlands,,116
+Trawler,Treffer power boats,Used boat,2006.0,13.3,4.3,Steel,189000.0,Netherlands, Op afspraak/on appointment/auf Termin.,70
+Flybridge,Ferretti power boats,Used boat,2005.0,14.4,4.33,GRP,195000.0,Spain, Barcellona,129
+Motor Yacht,Succes power boats,Used boat,2011.0,12.0,4.33,Steel,195000.0,Netherlands, In verkoophaven,93
+Motor Yacht,van der Heijden power boats,Used boat,2000.0,14.95,4.5,Steel,197500.0,Netherlands, In verkoophaven,51
+Motor Yacht,Baia power boats,Used boat,2001.0,14.7,4.2,GRP,200000.0,Croatia (Hrvatska), Dalmatia (HR),169
+Flybridge,Aqualum power boats,Used boat,2007.0,13.4,4.25,GRP,200000.0,Italy,,126
+Trawler,Topaz power boats,Used boat,1995.0,14.85,4.8,Steel,199900.0,Netherlands, Sneek,36
+Motor Yacht,Valk power boats,Used boat,1999.0,14.9,4.45,Steel,209000.0,Netherlands, onbekend,134
+Trawler,Valk power boats,Used boat,2010.0,15.2,4.55,Steel,205000.0,Netherlands, In verkoophaven,110
+Flybridge,Cranchi power boats,Diesel,2004.0,15.72,4.33,GRP,204750.0,Denmark, Middelhavet,73
+Trawler,Gruno power boats,Used boat,2008.0,13.4,4.1,Steel,210000.0,Netherlands, In verkoophaven,76
+Motor Yacht,Ilver power boats,Used boat,2000.0,15.0,4.25,GRP,215000.0,Malta,,134
+Hardtop,BÃ©nÃ©teau power boats,Used boat,2011.0,12.9,3.99,GRP,220000.0,Italy, Campania ,61
+Flybridge,Riva power boats,Used boat,1997.0,17.28,4.75,GRP,220000.0,Netherlands, Altea (ES),137
+Motor Yacht,Vacance power boats,Used boat,2004.0,13.5,4.2,Steel,225000.0,Germany, In verkoophaven,78
+Motor Yacht,Apreamare power boats,Used boat,2004.0,12.08,4.48,GRP,225000.0,Netherlands,,89
+Center console boat,Innovazioni e Progetti power boats,Used boat,2009.0,14.7,4.64,GRP,225000.0,Italy, Campania ,62
+Motor Yacht,Cranchi power boats,Used boat,2017.0,9.99,3.53,GRP,230000.0,Italy, Campania ,83
+Sport Boat,AXOPAR power boats,new boat on order,2020.0,11.5,3.35,GRP,240000.0,Poland, In Produktion,245
+Trawler,BÃ©nÃ©teau power boats,Used boat,2009.0,12.17,4.17,GRP,240000.0,Turkey, Bodrum,78
+Trawler,Valk power boats,Used boat,2004.0,16.8,4.35,Steel,249000.0,Netherlands, In verkoophaven,67
+Motor Yacht,Fairline power boats,Used boat,2007.0,16.22,4.27,GRP,249000.0,Croatia (Hrvatska), Sibenic,133
+Flybridge,Numarine power boats,Used boat,2007.0,15.42,4.45,GRP,249000.0,Croatia (Hrvatska), onbekend,90
+Motor Yacht,Delphia power boats,new boat from stock,2020.0,12.75,4.26,GRP,251388.0,Poland, ab Werk,66
+Flybridge,Doqueve power boats,Used boat,2007.0,15.4,4.6,GRP,259000.0,Spain, MURCIA (ES),71
+Motor Yacht,Ferretti power boats,Used boat,2001.0,14.8,4.6,GRP,259000.0,Croatia (Hrvatska),,124
+Motor Yacht,Elling power boats,Used boat,2004.0,14.95,4.25,GRP,265000.0,Netherlands, In verkoophaven,80
+Motor Yacht,Pollard power boats,Used boat,2016.0,12.0,4.2,Steel,269500.0,Netherlands, In verkoophaven,95
+Hardtop,Azimut power boats,Used boat,2008.0,12.97,4.22,GRP,269000.0,Italy, Campania ,145
+Trawler,Pikmeerkruiser power boats,Used boat,2009.0,13.9,4.35,Steel,279000.0,Netherlands, Grou.,53
+Motor Yacht,Absolute power boats,Used boat,2010.0,16.0,4.46,GRP,290000.0,Italy,,99
+Motor Yacht,Cantieri Estensi power boats,Used boat,2010.0,12.05,4.3,GRP,290000.0,Italy, Campania ,96
+Trawler,Aquanaut power boats,Used boat,2007.0,13.15,4.35,Steel,295000.0,Netherlands, In verkoophaven,138
+Motor Yacht,VanDutch power boats,Used boat,2010.0,11.98,3.5,GRP,295000.0,Netherlands, In verkoophaven,130
+Trawler,Grand Banks power boats,Used boat,1994.0,14.35,4.55,GRP,299000.0,Netherlands, Elders,97
+Motor Yacht,Astondoa power boats,Used boat,2003.0,16.46,4.27,GRP,299000.0,Netherlands,,75
+Trawler,Euroship power boats,Used boat,2009.0,13.85,4.46,Steel,319000.0,Netherlands, Elders,58
+Motor Yacht,Jeanneau power boats,new boat on order,2020.0,12.33,3.8,GRP,317849.0,Germany, BÃ¶nningstedt,29
+Trawler,Pikmeerkruiser power boats,Used boat,2015.0,12.9,4.05,Steel,325000.0,Netherlands, Grou,56
+Trawler,Linssen power boats,Used boat,2001.0,13.72,4.3,GRP,325000.0,Netherlands, In verkoophaven,132
+Motor Yacht,Fairline power boats,Used boat,2005.0,15.61,4.27,GRP,325000.0,Spain, Alicante,45
+Hardtop,Greenline power boats,new boat from stock,2020.0,11.99,3.75,GRP,325284.44,Denmark, ab vÃ¦rft,71
+Flybridge,Storebro power boats,Used boat,2004.0,14.2,4.25,GRP,325000.0,Denmark, Nordjylland,147
+Sport Boat,Invictus power boats,new boat on order,2020.0,11.4,3.5,GRP,340500.0,Switzerland, Lake Constance ,162
+House Boat,Overblue power boats,Used boat,2016.0,13.5,4.2,GRP,359000.0,Croatia (Hrvatska), In verkoophaven,104
+Flybridge,Sealine power boats,Used boat,2008.0,15.8,4.52,GRP,385000.0,Netherlands, REGIO ROERMOND,59
+Hardtop,Apreamare power boats,Used boat,2004.0,16.2,5.6,GRP,380000.0,Italy, Campania ,71
+Motor Yacht,Salpa power boats,new boat from stock,2019.0,11.95,3.85,GRP,417235.5,Switzerland, Lake Constance ,198
+Motor Yacht,Elling power boats,Used boat,2011.0,14.95,4.25,GRP,415000.0,Netherlands, In verkoophaven,67
+Hardtop,Sunseeker power boats,Used boat,2007.0,16.32,4.57,GRP,429000.0,Italy,,78
+Hardtop,Marex power boats,new boat from stock,2019.0,11.49,3.49,GRP,490050.0,Switzerland, Goldach,271
+Trawler,Super Lauwersmeer power boats,Used boat,2017.0,14.2,4.36,Steel,453000.0,Netherlands, In verkoophaven,136
+Trawler,van der Heijden power boats,Used boat,2009.0,18.0,5.3,Steel,475000.0,Netherlands, onbekend,107
+Flybridge,Sessa power boats,Used boat,2010.0,16.36,4.7,GRP,535000.0,Netherlands,,95
+Motor Yacht,Haines power boats,Used boat,2018.0,12.2,4.06,GRP,529000.0,Netherlands, In verkoophaven,79
+Sport Boat,Cranchi power boats,new boat from stock,2020.0,11.85,3.53,GRP,576384.0,Austria, Linz,214
+Motor Yacht,Abacus power boats,Used boat,2010.0,18.66,5.0,GRP,598000.0,Italy,,55
+Hardtop,Mochi Craft power boats,Used boat,2008.0,16.46,4.9,GRP,610000.0,Italy, Mar Tirreno,41
+Trawler,Linssen power boats,Used boat,2005.0,14.95,4.88,Steel,649500.0,Netherlands, Regio Roermond,88
+Motor Yacht,Riva power boats,Used boat,2008.0,17.57,4.64,GRP,745000.0,Netherlands,,122
+Motor Yacht,Galeon power boats,Used boat,2009.0,19.96,5.22,GRP,790000.0,Netherlands,,73
+Flybridge,Aicon power boats,Used boat,2007.0,19.99,5.31,GRP,830000.0,Italy, Veneto ,56
+Flybridge,Prestige Yachts power boats,new boat from stock,2020.0,16.11,4.49,GRP,925105.0,Netherlands,,108
+Motor Yacht,Riviera power boats,Used boat,2017.0,17.29,4.88,GRP,920000.0,France, Frankrijk (France),32
+Flybridge,Prestige Yachts power boats,new boat from stock,2020.0,18.7,4.84,GRP,906100.0,Netherlands,,63
+Motor Yacht,Cranchi power boats,new boat from stock,2018.0,15.82,4.67,GRP,1027774.0,Netherlands, onbekend,66
+Hardtop,Pershing power boats,Used boat,2009.0,20.04,5.0,GRP,1150000.0,Netherlands,,73
+Flybridge,Prestige Yachts power boats,new boat from stock,2019.0,18.7,4.84,GRP,1150000.0,Netherlands,,93
+Flybridge,Prestige Yachts power boats,Used boat,2016.0,21.46,5.33,GRP,1385000.0,Netherlands,,85
+Motor Yacht,BLUEGAME power boats,new boat from stock,2019.0,18.8,5.38,GRP,1785000.0,Netherlands,,39
+Motor Yacht,Sanlorenzo power boats,new boat from stock,2019.0,23.75,6.6,GRP,2620000.0,Netherlands,,101
+Motor Yacht,BLUEGAME power boats,new boat from stock,2020.0,21.86,5.6,GRP,3447580.0,Netherlands,,95
+Motor Yacht,Riva power boats,new boat from stock,2020.0,20.54,5.29,GRP,3410000.0,Netherlands,,285
+Motor Yacht,Sunseeker power boats,Used boat,2013.0,28.15,6.5,GRP,3390000.0,Spain, Alicante,121
+Motor Yacht,Sanlorenzo power boats,Used boat,2008.0,26.75,6.75,GRP,3200000.0,Croatia (Hrvatska),,56
+Mega Yacht,Ferretti power boats,Used boat,2013.0,29.7,7.08,GRP,5500000.0,Portugal, Vilamoura,106
+Motor Yacht,Sanlorenzo power boats,Used boat,2016.0,29.1,6.75,GRP,5400000.0,Netherlands,,105
+Motor Yacht,Sanlorenzo power boats,new boat from stock,2020.0,23.75,6.6,GRP,5208850.0,Netherlands,,110
+Mega Yacht,Sanlorenzo power boats,Used boat,2016.0,36.5,7.6,GRP,10500000.0,Netherlands,,220
+Mega Yacht,Sunseeker power boats,Used boat,2012.0,40.05,8.09,GRP,9250000.0,Netherlands,,219
+Mega Yacht,Sanlorenzo power boats,Used boat,2019.0,31.08,7.06,GRP,7900000.0,Netherlands,,122
+Motor Yacht,Sanlorenzo power boats,Used boat,2016.0,26.76,6.35,GRP,4800000.0,Netherlands,,108
+Mega Yacht,Palmer Johnson power boats,Used boat,2005.0,36.5,7.1,Aluminium,4800000.0,Netherlands,,157
+Motor Yacht,Sanlorenzo power boats,Used boat,2019.0,23.75,6.6,GRP,4395000.0,Netherlands,,94
+Motor Yacht,Sanlorenzo power boats,Used boat,2019.0,24.64,5.74,GRP,4100000.0,Netherlands,,102
+Motor Yacht,Pershing power boats,Used boat,2014.0,24.97,5.5,GRP,3750000.0,Netherlands,,149
+Motor Yacht,Riva power boats,Used boat,2010.0,28.0,6.75,GRP,2950000.0,Netherlands,,166
+Motor Yacht,Monte Carlo power boats,Used boat,2018.0,24.62,6.15,GRP,2950000.0,Netherlands,,113
+Catamaran,Sunreef power boats,Used boat,2013.0,21.4,9.3,GRP,2200000.0,Croatia (Hrvatska), Dalmatia (HR),96
+Motor Yacht,Prestige Yachts power boats,new boat from stock,2019.0,21.46,5.33,GRP,1985000.0,Netherlands,,70
+Motor Yacht,Lengers power boats,Used boat,2015.0,18.4,5.4,Aluminium,1875000.0,Netherlands,,93
+Motor Yacht,Riva power boats,Used boat,2014.0,20.82,5.45,GRP,1695000.0,Netherlands,,173
+Motor Yacht,BLUEGAME power boats,new boat from stock,2019.0,18.8,5.38,GRP,1685000.0,Netherlands,,75
+Flybridge,Prestige Yachts power boats,new boat from stock,2019.0,19.03,5.15,GRP,1603049.0,Netherlands,,74
+Motor Yacht,Overmarine power boats,Used boat,2008.0,25.07,5.9,GRP,1500000.0,Germany, Mittelmeer,65
+Center console boat,Riva power boats,Used boat,2009.0,20.55,5.45,GRP,1450000.0,Italy, Campania ,142
+Flybridge,Cranchi power boats,new boat from stock,2017.0,18.52,4.85,GRP,1402995.0,Netherlands, onbekend,100
+Motor Yacht,Cranchi power boats,new boat from stock,2017.0,18.52,4.85,GRP,1371535.0,Netherlands, onbekend,83
+Motor Yacht,Fairline power boats,Used boat,2010.0,24.4,5.7,GRP,1350000.0,Netherlands,,72
+Motor Yacht,Sessa power boats,Used boat,2016.0,21.03,5.07,GRP,1300000.0,France,,79
+Flybridge,Wim van der Valk power boats,Used boat,2009.0,24.5,6.2,Steel,1295000.0,Germany, a,118
+Flybridge,Cranchi power boats,new boat from stock,2018.0,17.2,4.85,GRP,1232966.0,Netherlands, onbekend,71
+Trawler,Cranchi power boats,new boat from stock,2020.0,17.0,4.95,GRP,1203950.0,Netherlands, In verkoophaven,96
+Motor Yacht,Cranchi power boats,new boat from stock,2017.0,18.52,4.85,GRP,1184590.0,Netherlands, onbekend,110
+Motor Yacht,Cranchi power boats,new boat from stock,2017.0,17.2,4.85,GRP,1095500.0,Netherlands, onbekend,98
+Motor Yacht,VanDutch power boats,Used boat,2018.0,16.48,4.5,GRP,1095000.0,Netherlands,,97
+Flybridge,Cranchi power boats,new boat from stock,2018.0,15.82,4.67,GRP,1059295.0,Netherlands, onbekend,149
+Trawler,Valk power boats,Used boat,2005.0,20.0,5.0,Steel,995000.0,Netherlands, onbekend,93
+Flybridge,Prestige Yachts power boats,Used boat,2018.0,16.11,4.49,GRP,960000.0,Netherlands,,143
+Flybridge,Selene power boats,Used boat,2009.0,21.52,5.69,GRP,950000.0,Netherlands, In verkoophaven,54
+Flybridge,Mochi Craft power boats,Used boat,2007.0,19.53,6.13,GRP,945000.0,France, onbekend,67
+Motor Yacht,Riva power boats,Used boat,2017.0,11.88,3.5,GRP,895000.0,Netherlands,,241
+Motor Yacht,BLUEGAME power boats,new boat from stock,2019.0,12.98,4.37,GRP,885450.0,Netherlands,,108
+Flybridge,Cranchi power boats,Used boat,2018.0,15.82,4.67,GRP,850000.0,Croatia (Hrvatska), onbekend,74
+Motor Yacht,Sunseeker power boats,Used boat,2000.0,26.56,5.95,GRP,849000.0,Croatia (Hrvatska), onbekend,71
+Flybridge,Cranchi power boats,Used boat,2018.0,13.99,4.67,GRP,800000.0,Italy, Campania ,142
+Hardtop,Jetten power boats,Used boat,2016.0,15.15,4.88,Steel,795000.0,Netherlands,,143
+Hardtop,Riva power boats,Used boat,2000.0,22.37,5.4,GRP,750000.0,Italy, Sardegna ,92
+Flybridge,Maiora power boats,Used boat,2001.0,24.0,5.9,GRP,750000.0,Netherlands, Willemstad,137
+Motor Yacht,Princess power boats,Used boat,2016.0,14.6,4.06,GRP,750000.0,Netherlands, Zeeland,182
+Motor Yacht,Riva power boats,Used boat,2013.0,13.4,3.88,GRP,750000.0,Netherlands,,273
+Motor Yacht,Riviera power boats,Used boat,2019.0,15.23,4.61,GRP,749500.0,Sweden, Area Gothenburg,111
+Trawler,Linssen power boats,Used boat,2005.0,14.95,4.88,Steel,749000.0,Netherlands, Bestboats Roermond,92
+Hardtop,Sunseeker power boats,Used boat,2013.0,18.36,4.7,GRP,699000.0,Spain, Mallorca ,93
+Motor Yacht,Riva power boats,Used boat,2012.0,16.12,4.61,GRP,695000.0,Netherlands,,166
+Motor Yacht,van der Heijden power boats,Used boat,2015.0,15.68,4.85,Aluminium,695000.0,Netherlands,,147
+Motor Yacht,Riva power boats,Used boat,2012.0,13.4,3.88,GRP,695000.0,Netherlands,,350
+Trawler,Cranchi power boats,new boat from stock,2020.0,13.8,4.37,GRP,661870.0,Netherlands, onbekend,109
+Motor Yacht,Prestige Yachts power boats,Used boat,2016.0,14.96,4.54,GRP,656920.0,Netherlands,,45
+Hardtop,Jaguar power boats,Used boat,2010.0,23.94,5.8,GRP,600000.0,Italy, Liguria ,87
+Motor Yacht,Rapsody power boats,Used boat,2008.0,16.65,4.85,GRP,595000.0,France,,135
+Motor Yacht,Riva power boats,Used boat,2007.0,16.12,4.64,GRP,595000.0,Netherlands,,135
+Flybridge,Astondoa power boats,Used boat,2001.0,22.2,5.5,GRP,590000.0,Netherlands,,60
+Motor Yacht,Elling power boats,Used boat,2017.0,14.95,4.25,GRP,585000.0,Netherlands,,179
+Flybridge,Princess power boats,Used boat,2002.0,20.97,5.08,GRP,580000.0,Finland, Turku (FI),96
+Trawler,Apreamare power boats,Used boat,2007.0,15.5,4.9,GRP,546000.0,Spain, Barcelona,60
+Flybridge,Prestige Yachts power boats,new boat from stock,2020.0,13.06,4.1,GRP,553576.0,Netherlands,,49
+Trawler,Verhoeven power boats,Used boat,2005.0,21.0,5.0,Steel,545000.0,Netherlands, In verkoophaven,93
+Trawler,Linssen power boats,Used boat,2012.0,14.45,4.4,Steel,545000.0,Netherlands, In verkoophaven,153
+Trawler,Valk power boats,Used boat,2006.0,17.3,4.85,Steel,539000.0,Netherlands, onbekend,83
+Trawler,Integrity power boats,Used boat,2016.0,14.4,4.35,GRP,519870.0,Netherlands, Holland,66
+Motor Yacht,Cranchi power boats,Used boat,2018.0,13.82,4.06,GRP,495737.0,Netherlands,,154
+Trawler,Zijlmans power boats,Used boat,2008.0,17.0,4.9,Steel,495000.0,Netherlands, In verkoophaven,140
+Motor Yacht,Altena power boats,Used boat,1998.0,16.23,4.8,Steel,445000.0,United Kingdom,,67
+Motor Yacht,Bertram power boats,Used boat,2000.0,16.46,5.16,GRP,470000.0,Croatia (Hrvatska), onbekend,68
+Hardtop,Alfamarine power boats,Used boat,2008.0,18.96,4.6,GRP,470000.0,Italy, Toscana ,47
+Motor Yacht,Fjord power boats,new boat from stock,2020.0,11.63,3.64,GRP,460428.0,France,,135
+Motor Yacht,Bavaria power boats,Used boat,2016.0,13.22,4.41,GRP,449000.0,Croatia (Hrvatska), onbekend,78
+Flybridge,Apreamare power boats,Used boat,2013.0,14.97,4.8,GRP,440000.0,Italy, Campania ,89
+Flybridge,Azimut power boats,Used boat,2008.0,17.48,4.8,GRP,430000.0,Italy, Campania ,66
+Motor Yacht,Sunseeker power boats,Used boat,2009.0,17.35,4.6,GRP,425000.0,Netherlands,,128
+Flybridge,Ferretti power boats,Used boat,2002.0,18.3,5.25,GRP,400000.0,Italy, Campania ,73
+Hardtop,Rizzardi power boats,Used boat,2010.0,16.0,4.4,GRP,400000.0,Italy, Campania ,65
+Motor Yacht,Maiora power boats,Used boat,1993.0,23.0,5.8,GRP,400000.0,Netherlands,,127
+Motor Yacht,Marine Projects power boats,Used boat,1994.0,20.9,5.08,GRP,400000.0,Estonia, Ostsee ,50
+Motor Yacht,Sealine power boats,Used boat,2013.0,15.5,4.48,GRP,399500.0,Greece, onbekend,55
+Trawler,Grand Banks power boats,Used boat,2003.0,13.11,4.0,GRP,398000.0,Netherlands, In verkoophaven,108
+Trawler,Smelne power boats,Used boat,2011.0,13.88,4.42,Steel,397500.0,Netherlands, In verkoophaven,60
+Motor Yacht,Pirelli power boats,new boat from stock,2020.0,13.1,4.1,PVC,396000.0,France,,115
+Motor Yacht,Riva power boats,Used boat,2013.0,10.07,2.8,GRP,395000.0,Netherlands,,115
+Trawler,Altena power boats,Used boat,1999.0,14.99,4.85,Steel,389000.0,Netherlands, In verkoophaven,118
+Motor Yacht,Prestige Yachts power boats,Used boat,2014.0,13.96,4.3,GRP,389000.0,Netherlands, Stevensweert (NL),83
+Motor Yacht,Princess power boats,Used boat,2004.0,20.33,5.08,GRP,379000.0,Greece, Griechenland,107
+Trawler,Treffer power boats,Used boat,2019.0,14.3,4.35,Steel,379000.0,Netherlands, onbekend,27
+Motor Yacht,Fairline power boats,Used boat,2000.0,20.37,5.23,GRP,375000.0,Netherlands,,126
+Motor Yacht,Fairline power boats,Used boat,1993.0,19.02,5.28,GRP,369000.0,France, Francia Mediterraneo,98
+Trawler,Linssen power boats,Used boat,2011.0,13.9,4.35,Steel,368750.0,Netherlands, Bestboats Roermond,54
+Trawler,Linssen power boats,Used boat,2015.0,13.15,4.3,Steel,365000.0,Netherlands, In verkoophaven,137
+Trawler,Linden power boats,Used boat,2007.0,14.5,4.4,Steel,355000.0,Netherlands, In verkoophaven,42
+Motor Yacht,Sessa power boats,Used boat,2009.0,14.0,4.0,GRP,355000.0,Netherlands,,78
+Flybridge,Ferretti power boats,Used boat,2005.0,17.86,5.25,GRP,350000.0,Italy,,61
+Classic,Zijlmans power boats,new boat from stock,2007.0,18.3,4.9,Steel,349500.0,Netherlands, In verkoophaven,80
+Trawler,Pacific power boats,Used boat,2002.0,15.5,4.7,Steel,349000.0,Netherlands, In verkoophaven,92
+Motor Yacht,Dalla Pieta power boats,Used boat,2007.0,18.51,4.94,GRP,349000.0,Croatia (Hrvatska), In verkoophaven,19
+Hardtop,Fiart Mare power boats,Used boat,2010.0,14.33,4.41,GRP,340000.0,Italy, Campania ,149
+Flybridge,Aicon power boats,Used boat,2007.0,17.4,4.8,GRP,340000.0,Italy, Toscana ,63
+Trawler,Linssen power boats,Used boat,2014.0,12.85,4.3,Steel,339500.0,Netherlands, Bestboats Roermond,111
+Motor Yacht,van der Heijden power boats,Used boat,2006.0,14.99,4.5,Steel,329000.0,Netherlands, In verkoophaven,41
+Motor Yacht,VanDutch power boats,Used boat,2013.0,11.98,3.5,GRP,325000.0,France, onbekend,67
+Flybridge,Riviera power boats,Used boat,2003.0,16.36,4.85,GRP,320000.0,France, Frankrijk (France),67
+Flybridge,Canados power boats,Used boat,1990.0,25.18,6.5,GRP,320000.0,Italy,,92
+Motor Yacht,Storebro power boats,Used boat,1994.0,15.2,4.55,GRP,320000.0,Germany, TravemÃ¼nde,142
+Motor Yacht,Ocean Master (US) power boats,Used boat,2008.0,10.2,3.0,GRP,341550.0,Switzerland, Luganersee ,89
+Motor Yacht,Jetten power boats,Used boat,2012.0,13.5,4.5,Steel,315000.0,Netherlands, BelgiÃ« - Omgeving Brugge,149
+Motor Yacht,Apreamare power boats,Used boat,2007.0,13.21,4.7,GRP,310000.0,Italy, Campania ,52
+Motor Yacht,Uniesse power boats,Used boat,2005.0,16.2,4.5,GRP,310000.0,Malta,,108
+Motor Yacht,Cranchi power boats,new boat from stock,2019.0,11.7,3.53,GRP,301762.0,Netherlands, onbekend,94
+Flybridge,Rodman power boats,Used boat,2007.0,17.39,4.9,GRP,300000.0,Italy, Campania ,45
+Motor Yacht,Rizzardi power boats,Used boat,2008.0,14.8,4.4,GRP,300000.0,Italy,,75
+Motor Yacht,Ijlstervlet power boats,Used boat,2017.0,11.85,3.95,Steel,298000.0,Netherlands, Lemmer,46
+Motor Yacht,Rapsody power boats,Used boat,2004.0,14.9,4.18,GRP,298000.0,Netherlands, In verkoophaven,75
+Motor Yacht,Sealine power boats,Used boat,2011.0,14.33,4.48,GRP,298000.0,Finland, NÃ¥dendal,110
+Motor Yacht,President power boats,Used boat,1995.0,19.0,4.82,GRP,295000.0,Netherlands,,76
+Flybridge,Bertram power boats,Used boat,2007.0,11.9,4.0,GRP,295000.0,Netherlands,,43
+Flybridge,AICON Yachts power boats,Used boat,2008.0,17.66,4.8,GRP,295000.0,Netherlands,,121
+Motor Yacht,Princess power boats,Used boat,2008.0,14.7,4.01,GRP,295000.0,Netherlands,,160
+Runabout,Menorquin power boats,Used boat,2003.0,15.95,5.0,GRP,290000.0,Italy, Toscana ,63
+Flybridge,Posillipo power boats,Used boat,1996.0,21.63,5.3,GRP,290000.0,Italy, I West,45
+Motor Yacht,Sunseeker power boats,Used boat,2006.0,17.04,4.6,GRP,280000.0,Spain, Mallorca ,231
+Motor Yacht,Cranchi power boats,Used boat,2018.0,11.7,3.53,GRP,278000.0,Croatia (Hrvatska), onbekend,71
+Trawler,van der Heijden power boats,Used boat,2005.0,14.95,4.5,Steel,275000.0,Netherlands, In verkoophaven,53
+Motor Yacht,Fairline power boats,Used boat,2008.0,15.0,4.0,GRP,270000.0,Spain, Alicante,42
+Flybridge,Sealine power boats,Used boat,2010.0,14.1,4.48,GRP,270000.0,Croatia (Hrvatska), Dalmatia (HR),54
+Hardtop,Pershing power boats,Used boat,2002.0,16.7,4.7,GRP,270000.0,Italy, Campania ,115
+Hardtop,Sunseeker power boats,Used boat,2005.0,17.35,4.57,GRP,270000.0,Italy,,119
+Motor Yacht,Jeanneau power boats,new boat on order,2020.0,11.47,3.62,GRP,265727.0,Germany, BÃ¶nningstedt,45
+House Boat,Hemiksem power boats,Used boat,1966.0,46.91,5.08,Steel,265000.0,Belgium, Bruxelles - Ittre ,174
+Motor Yacht,Galeon power boats,Used boat,2011.0,13.6,3.9,GRP,265000.0,Spain, INFO DD-YACHTING,97
+Hardtop,Rio power boats,Used boat,2012.0,13.23,4.0,GRP,260000.0,Italy, Campania ,48
+Trawler,Tryvia power boats,Used boat,2011.0,13.45,4.25,Steel,259500.0,Netherlands, Bestboats Roermond,107
+Flybridge,Adagio Yachts power boats,Used boat,2008.0,12.97,3.87,GRP,259000.0,Netherlands, onbekend,53
+Flybridge,Cranchi power boats,Used boat,2007.0,15.52,4.33,GRP,250000.0,Turkey, Western Turkey,42
+Motor Yacht,Jacabo power boats,Used boat,2005.0,14.75,4.25,Steel,249500.0,Netherlands, In verkoophaven,64
+Motor Yacht,van der Heijden power boats,Used boat,2002.0,14.95,4.65,Steel,249000.0,Netherlands, In verkoophaven,110
+Deck Boat,Sessa power boats,new boat from stock,2020.0,11.94,3.5,GRP,242000.0,Italy, Toscana ,138
+Center console boat,Fairline power boats,Used boat,2010.0,13.12,4.04,GRP,240000.0,Italy, Campania ,136
+Trawler,Smelne power boats,Used boat,2001.0,14.25,4.2,Steel,239000.0,Netherlands, In verkoophaven,39
+Trawler,Linssen power boats,Used boat,1999.0,13.99,4.35,Steel,239000.0,Netherlands, In verkoophaven,62
+Flybridge,Jeanneau power boats,new boat from stock,2020.0,10.45,3.37,GRP,238900.0,Germany, BÃ¶nningstedt,119
+Motor Yacht,Cranchi power boats,Used boat,2017.0,11.7,3.53,GRP,235000.0,Germany, onbekend,101
+Motor Yacht,Sunseeker power boats,Used boat,2007.0,14.95,4.3,GRP,232000.0,Croatia (Hrvatska), INFO DD-YACHTING,83
+Motor Yacht,Pacific power boats,Used boat,2003.0,14.8,4.55,Steel,229000.0,Netherlands, In verkoophaven,54
+Trawler,Zuiderzee power boats,Used boat,2000.0,14.0,4.25,Steel,229000.0,Netherlands, In verkoophaven,123
+Trawler,BÃ©nÃ©teau power boats,Used boat,2007.0,13.6,4.17,GRP,220350.0,Denmark, NordsjÃ¦lland,113
+Hardtop,Marex power boats,Used boat,2016.0,9.99,3.3,GRP,227500.0,Netherlands, Bestboats Roermond,212
+Sport Boat,Cantieri di Sarnico power boats,Used boat,2000.0,17.15,4.54,GRP,225000.0,Italy, Liguria ,75
+Motor Yacht,Pacific power boats,Used boat,2006.0,16.0,4.75,Steel,219500.0,Netherlands, In verkoophaven,74
+Trawler,Vri-Jon power boats,Used boat,2009.0,13.9,4.2,Steel,219500.0,Netherlands, in onze showroom,97
+Trawler,Smelne power boats,Used boat,2005.0,12.77,4.15,Steel,219000.0,Netherlands, In verkoophaven,30
+Motor Yacht,Tiara power boats,Used boat,2005.0,13.66,4.56,GRP,215000.0,Italy, Liguria ,63
+Motor Yacht,Fiart Mare power boats,new boat on order,2020.0,10.4,3.68,PVC,213600.0,France,,56
+Hardtop,Airon Marine power boats,Used boat,2011.0,12.98,3.8,GRP,210000.0,Italy, Campania ,30
+Motor Yacht,Elling power boats,Used boat,2001.0,13.2,4.25,GRP,209000.0,Netherlands, In verkoophaven,64
+Cabin Boat,Greenline power boats,Used boat,2019.0,11.0,3.35,GRP,200000.0,Lithuania, Klaipeda,190
+Trawler,Babro power boats,Used boat,2007.0,12.6,4.35,Steel,199900.0,Netherlands, In verkoophaven,82
+Trawler,Pikmeerkruiser power boats,Used boat,2005.0,13.9,4.15,Steel,199000.0,Netherlands, Grou,132
+Trawler,Valkkruiser power boats,Used boat,2004.0,13.6,4.25,Steel,198000.0,Netherlands, In verkoophaven,44
+Cabin Boat,Nimbus power boats,new boat on order,2020.0,9.35,2.95,GRP,198000.0,Switzerland, Lake Constance ,206
+Center console boat,Fiart Mare power boats,Used boat,2008.0,12.45,4.02,GRP,198000.0,Italy, Campania ,45
+Flybridge,President power boats,Used boat,1991.0,15.85,4.2,GRP,198000.0,Netherlands, regio Breda,158
+Trawler,Linssen power boats,Used boat,2002.0,12.55,4.2,Steel,195000.0,Netherlands, In verkoophaven,87
+Hardtop,Cranchi power boats,Used boat,2006.0,14.99,4.33,GRP,195000.0,Italy, Campania ,54
+Motor Yacht,BÃ©nÃ©teau power boats,Used boat,2008.0,15.1,4.49,GRP,195000.0,Netherlands, onbekend,98
+Motor Yacht,Chung Hwa power boats,Used boat,1978.0,14.4,4.4,GRP,190000.0,Spain, Mallorca ,55
+Flybridge,Sealine power boats,Used boat,1994.0,12.8,4.11,GRP,190000.0,Belgium, Nieuwpoort (BE),188
+Center console boat,Premiere Yacht power boats,Used boat,2006.0,15.15,4.87,GRP,190000.0,Italy, Campania ,34
+Flybridge,Dellapasqua power boats,Used boat,2007.0,13.3,4.32,GRP,189000.0,Italy, Liguria ,44
+Trawler,Linssen power boats,Used boat,2003.0,11.6,3.85,Steel,189000.0,Netherlands, In verkoophaven,149
+Classic,Super van Craft power boats,Used boat,1973.0,14.3,4.3,Steel,188000.0,Belgium, regio Bergen,110
+Trawler,Linssen power boats,Used boat,2001.0,12.55,4.25,Steel,187500.0,Netherlands, In verkoophaven,90
+Trawler,Gruno power boats,Used boat,2011.0,11.0,3.7,Steel,185000.0,Netherlands, regio Nijmegen,88
+Flybridge,Hatteras power boats,Used boat,1984.0,15.24,4.81,GRP,180000.0,Italy,,52
+Trawler,Smelne power boats,Used boat,2001.0,12.7,4.1,Steel,179500.0,Netherlands, In verkoophaven,35
+Trawler,Tryvia power boats,Used boat,2009.0,11.2,3.8,Steel,179000.0,Netherlands, Bezichtiging op afspraak/Call us for a visit/Besic,82
+Hardtop,Cranchi power boats,Used boat,2008.0,14.19,4.1,GRP,179000.0,Italy,,106
+Trawler,Linssen power boats,Used boat,2003.0,11.6,3.85,Steel,178000.0,Netherlands, Roermond BestBoats,91
+Deck Boat,Rapsody power boats,Used boat,2019.0,9.0,2.62,GRP,175000.0,Netherlands, In verkoophaven,91
+Trawler,Vri-Jon power boats,Used boat,2000.0,13.85,4.1,Steel,174900.0,Netherlands, in onze showroom,97
+Trawler,Valk power boats,Used boat,1998.0,14.5,4.25,Steel,174500.0,Netherlands, Leidschendam,101
+Flybridge,Sealine power boats,Used boat,2001.0,13.41,4.16,GRP,174000.0,Netherlands, Niederlande,140
+Runabout,Need Yacht power boats,Used boat,2015.0,9.99,2.97,GRP,183150.0,Switzerland, Lago Maggiore ,409
+Motor Yacht,Super van Craft power boats,Used boat,1983.0,16.2,4.35,Steel,169000.0,Netherlands, Meppel,67
+Motor Yacht,BÃ©nÃ©teau power boats,Used boat,2006.0,15.1,4.49,GRP,169000.0,Italy, Adria,69
+Deck Boat,Invictus power boats,new boat from stock,2020.0,8.9,2.84,GRP,165490.0,France,,111
+Flybridge,Rio power boats,Used boat,2016.0,10.0,3.3,GRP,165000.0,Italy, Mar Tirreno,74
+Flybridge,BÃ©nÃ©teau power boats,Used boat,2010.0,11.37,3.85,GRP,165000.0,Netherlands,,190
+Motor Yacht,Jeanneau power boats,Used boat,2017.0,10.57,3.21,PVC,162000.0,France,,96
+Flybridge,Marine Offshore power boats,Used boat,1999.0,14.5,4.65,GRP,156000.0,Denmark, Ãstjylland,70
+Working Boat,Stormer power boats,Used boat,2014.0,9.5,2.99,Aluminium,159500.0,Netherlands, Zaandam,107
+Motor Yacht,Bavaria power boats,Used boat,2011.0,11.8,3.99,GRP,159000.0,Spain, Costa del Azahar ,194
+Trawler,Doggersbank power boats,Used boat,1997.0,15.0,4.5,Steel,159000.0,Netherlands, Elburg,59
+Pilothouse,Nimbus power boats,Used boat,2008.0,11.5,3.6,GRP,159000.0,Croatia (Hrvatska), onbekend,106
+Motor Yacht,Hatteras power boats,Used boat,1988.0,13.84,4.42,GRP,159000.0,Italy, Toscana ,23
+Motor Yacht,Rapsody power boats,Used boat,2007.0,9.68,2.88,GRP,157000.0,Netherlands, In verkoophaven,147
+Motor Yacht,Performance power boats,Used boat,2005.0,11.9,3.0,GRP,155000.0,Netherlands, Vinkeveen (NL),80
+Motor Yacht,BÃ©nÃ©teau power boats,new boat from stock,2020.0,11.08,3.4,GRP,154393.0,France, France,104
+Fishing Boat,Pursuit power boats,Used boat,2013.0,8.7,2.85,GRP,152000.0,Italy, Toscana ,71
+Flybridge,Jeanneau power boats,Used boat,2010.0,11.3,3.9,GRP,150000.0,Italy, Campania ,115
+Motor Yacht,Sessa power boats,Used boat,2008.0,11.51,3.5,GRP,150000.0,Italy, Mar Tirreno,31
+Flybridge,Sea Ray power boats,Used boat,2008.0,11.58,4.0,GRP,150000.0,Malta, St.Julians,142
+Flybridge,Sea Ray power boats,Used boat,2008.0,11.58,3.96,GRP,150000.0,Malta, St.julians,156
+Motor Yacht,Sessa power boats,Used boat,2008.0,11.5,3.5,GRP,150000.0,Italy,,63
+Motor Yacht,Sarnico power boats,Used boat,1998.0,16.7,4.38,GRP,149500.0,Croatia (Hrvatska),,129
+Trawler,ReLine power boats,Used boat,2005.0,12.6,3.8,Steel,149000.0,Netherlands, Steenwijk,45
+Trawler,Linssen power boats,Used boat,2001.0,11.5,3.95,Steel,149000.0,Netherlands, In verkoophaven,93
+Trawler,Flevo power boats,Used boat,2000.0,14.75,4.25,Steel,149000.0,Netherlands, Limburg,74
+Motor Yacht,Princess power boats,Used boat,1995.0,13.68,4.17,GRP,142350.0,Denmark, Midtjylland,214
+Sport Boat,Jeanneau power boats,Used boat,2009.0,11.5,3.89,GRP,145000.0,Italy, Sardegna ,150
+Sport Boat,Cranchi power boats,new boat from stock,2020.0,7.85,2.49,PVC,141756.0,France,,91
+Cabin Boat,Motomar power boats,Used boat,1980.0,13.38,4.63,GRP,139000.0,Italy, Adria,53
+Trawler,Valkkruiser power boats,Used boat,1996.0,14.1,4.1,Steel,139000.0,Belgium, regio Antwerpen,86
+Trawler,Suncoast power boats,Used boat,1997.0,13.5,4.35,Steel,135000.0,Netherlands, Workum.,99
+Flybridge,Intermare power boats,Used boat,2009.0,10.48,3.65,GRP,135000.0,Italy, Toscana ,106
+House Boat,Baltic power boats,new boat from stock,2020.0,11.98,5.0,Aluminium,134500.0,Netherlands, Nieuwbouw,43
+Sport Boat,BÃ©nÃ©teau power boats,new boat from stock,2020.0,9.98,3.32,GRP,134438.0,France, France,56
+Motor Yacht,Sunseeker power boats,Used boat,2001.0,11.34,3.11,GRP,130000.0,Croatia (Hrvatska), onbekend,81
+Flybridge,Broom power boats,Used boat,1988.0,12.7,4.0,GRP,125450.0,Germany, Nordtyskland,157
+Flybridge,Neptunus power boats,Used boat,1992.0,12.9,4.1,GRP,125450.0,Denmark, Nordtyskland,127
+Trawler,Hellingskip power boats,Used boat,1999.0,11.0,3.85,Steel,129500.0,Netherlands, In verkoophaven,128
+Classic,Rapsody power boats,Used boat,2005.0,9.68,2.95,GRP,129500.0,Netherlands, In verkoophaven,126
+Trawler,Gruno power boats,Used boat,2000.0,11.0,3.9,Steel,129000.0,Netherlands, In verkoophaven,113
+Motor Yacht,President power boats,Used boat,1990.0,15.85,4.2,GRP,129000.0,Spain, ALMERIA (ES),78
+Motor Yacht,Cranchi power boats,new boat from stock,2019.0,9.15,2.98,GRP,128974.0,Netherlands, onbekend,177
+Cabin Boat,Sea Ray power boats,new boat from stock,2020.0,7.89,2.54,GRP,125000.0,Germany, Bayern ,191
+Pilothouse,Jeanneau power boats,new boat on order,2020.0,10.5,3.35,GRP,121380.0,Germany, BÃ¶nningstedt,79
+Flybridge,Azimut power boats,Used boat,1993.0,13.44,4.35,GRP,120000.0,Italy, Toscana ,60
+Runabout,Lex Boats power boats,Display Model,2019.0,7.9,2.57,GRP,120000.0,Germany, LÃ¼becker Bucht ,146
+Sport Boat,Sessa power boats,Used boat,2005.0,12.9,3.85,GRP,120000.0,Italy, Campania ,66
+Flybridge,Cranchi power boats,Used boat,2003.0,11.83,3.83,GRP,120000.0,Italy, Campania ,105
+Center console boat,Riva power boats,Used boat,2006.0,9.25,2.8,GRP,120000.0,Italy, Friuli-Venezia Giulia,86
+Trawler,Privateer power boats,Used boat,1999.0,11.6,3.8,Steel,119500.0,Netherlands, In verkoophaven,72
+Center console boat,Boston Whaler power boats,Used boat,2012.0,7.4,2.75,GRP,119500.0,Netherlands, In verkoophaven,41
+Trawler,Smelne power boats,Used boat,2003.0,12.05,3.85,Steel,119500.0,Netherlands, In verkoophaven,55
+Trawler,Marhen power boats,Used boat,2006.0,10.85,3.6,Steel,119500.0,Netherlands, Op afspraak/on appointment/auf Termin,38
+Trawler,Menorquin power boats,Used boat,2000.0,10.72,3.76,GRP,119000.0,Spain, Mallorca ,78
+Trawler,Pikmeerkruiser power boats,Used boat,1995.0,12.1,3.8,Steel,119000.0,Netherlands, Grou,67
+Trawler,Ijlstervlet power boats,Used boat,2006.0,10.5,3.7,Steel,119000.0,Netherlands, Zaandam,68
+Motor Yacht,Cranchi power boats,Used boat,2005.0,12.99,3.45,GRP,113750.0,Denmark, Ãstjylland,108
+Offshore Boat,Sunseeker power boats,Used boat,2000.0,11.85,2.34,GRP,115000.0,Switzerland, Gottlieben,476
+Motor Yacht,Cranchi power boats,new boat from stock,2019.0,7.85,2.49,GRP,114708.0,Italy, onbekend,328
+Motor Yacht,Cranchi power boats,new boat on order,2020.0,7.85,2.49,PVC,118500.0,France,,129
+Wakeboard/Wakesurf,MasterCraft power boats,Used boat,2016.0,7.4,2.59,GRP,113000.0,Germany, Baden-WÃ¼rttemberg ,365
+Sport Boat,Airon Marine power boats,Display Model,2017.0,8.34,2.5,GRP,120780.0,Switzerland, VierwaldstÃ¤ttersee ,216
+Center console boat,Gagliotta power boats,Used boat,2004.0,10.3,3.5,GRP,110000.0,Italy, Toscana ,20
+Motor Yacht,Pershing power boats,Used boat,1999.0,11.78,3.25,GRP,110000.0,Spain, Balearic Islands,100
+Motor Yacht,Sunseeker power boats,Used boat,1998.0,13.41,4.11,GRP,110000.0,Spain, Balearic Islands,239
+Motor Yacht,Succes power boats,Diesel,1997.0,13.0,4.0,Steel,110000.0,Germany, Leukemeer,137
+Motor Yacht,Cranchi power boats,Used boat,2014.0,9.15,2.98,GRP,109000.0,Netherlands, In verkoophaven,166
+Motor Yacht,BÃ©nÃ©teau power boats,new boat from stock,2020.0,9.0,2.95,GRP,101299.0,France, France,81
+Motor Yacht,Aquanaut power boats,Used boat,1998.0,10.6,3.5,Steel,100000.0,Netherlands, In verkoophaven,104
+Trawler,Linssen power boats,Diesel,1993.0,11.0,3.5,Steel,99990.0,Germany, Verkaufshafen Brandenburg-Plaue,150
+Flybridge,Jacabo power boats,Used boat,1988.0,14.0,4.0,Steel,99900.0,Netherlands, Leeuwarden,116
+Sport Boat,Airon Marine power boats,new boat on order,2020.0,7.6,2.5,GRP,99900.0,Germany, Bayern ,104
+Motor Yacht,Sunseeker power boats,Used boat,1998.0,11.9,3.7,GRP,99500.0,Netherlands, In verkoophaven,102
+Trawler,Ijlstervlet power boats,Used boat,2001.0,10.5,3.7,Steel,99500.0,Netherlands, onbekend,58
+Pilothouse,AXOPAR power boats,Used boat,2017.0,8.99,2.85,GRP,99500.0,Netherlands, Bezichtiging op afspraak,154
+Trawler,Valkkruiser power boats,Used boat,1995.0,12.8,3.85,Steel,99500.0,Netherlands, onbekend,100
+Motor Yacht,Striker power boats,Used boat,1976.0,15.0,4.2,Aluminium,99000.0,Netherlands, Urk,109
+Trawler,Valkkruiser power boats,Used boat,1992.0,13.0,3.65,Steel,99000.0,Netherlands, Elburg,127
+Motor Yacht,Boston Whaler power boats,Used boat,2005.0,9.8,3.09,GRP,99000.0,Spain, Mallorca ,104
+Flybridge,Neptunus power boats,Used boat,1996.0,12.9,4.2,GRP,99000.0,Netherlands, In verkoophaven,107
+Trawler,Doggersbank power boats,Used boat,1985.0,12.95,3.85,Steel,98000.0,Netherlands, de Woude,107
+Motor Yacht,Innovazioni e Progetti power boats,Used boat,2002.0,12.39,3.7,GRP,95000.0,Italy, Mare Adriatico,102
+Motor Yacht,Chaparral power boats,Used boat,2010.0,9.45,3.05,GRP,95000.0,Croatia (Hrvatska), Croatia,139
+Motor Yacht,Fiart Mare power boats,Used boat,2000.0,12.0,4.02,GRP,95000.0,Italy, Campania ,77
+Motor Yacht,Jeanneau power boats,new boat from stock,2020.0,10.52,3.2,GRP,92271.0,Germany, BÃ¶nningstedt,117
+Motor Yacht,Riviera power boats,Used boat,1997.0,13.6,3.35,GRP,90000.0,France, Frankrijk (France),115
+Motor Yacht,Bayliner power boats,Used boat,1997.0,12.8,4.1,GRP,89500.0,Netherlands, In verkoophaven,147
+Deck Boat,Makma power boats,Used boat,2005.0,9.07,3.31,GRP,89500.0,Netherlands, In verkoophaven,146
+Trawler,Barkas power boats,Used boat,2002.0,11.0,3.8,Steel,89000.0,Netherlands, de Kaag,92
+Motor Yacht,Tornado power boats,Used boat,2005.0,10.79,3.86,GRP,88000.0,Italy, Campania ,99
+Motor Yacht,Skilso power boats,Used boat,2000.0,9.9,3.2,GRP,87500.0,Netherlands, Drimmelen,141
+Motor Yacht,Edership power boats,Used boat,1984.0,13.71,4.5,GRP,86000.0,Croatia (Hrvatska),,117
+Center console boat,Sessa power boats,Used boat,2009.0,8.93,2.99,GRP,85000.0,Italy, Campania ,58
+Motor Yacht,Innovazioni e Progetti power boats,Used boat,2004.0,11.63,3.7,GRP,85000.0,Italy, Friuli-Venezia Giulia,74
+Motor Yacht,Gobbi power boats,Used boat,2002.0,11.35,3.55,GRP,85000.0,Netherlands, In verkoophaven,121
+Bowrider,XO Boats power boats,new boat from stock,2019.0,7.35,2.3,Aluminium,89001.0,Switzerland, VierwaldstÃ¤ttersee ,147
+Motor Yacht,Cranchi power boats,Used boat,2007.0,9.21,3.56,GRP,82000.0,Italy, Campania ,173
+Motor Yacht,Balt Yacht power boats,new boat from stock,2020.0,9.8,2.98,GRP,80900.0,Germany, Berlin ,97
+Motor Yacht,Ferretti power boats,Used boat,1992.0,12.0,3.94,GRP,80000.0,Italy, Adria,50
+Motor Yacht,Ferretti power boats,Used boat,1992.0,12.0,3.94,GRP,80000.0,Italy, Adria,49
+Launch,Waterdream power boats,Used boat,2016.0,8.5,3.12,Aluminium,79500.0,Netherlands,,104
+Sport Boat,Riva power boats,Used boat,1988.0,15.2,4.15,GRP,79000.0,Italy, Sardegna ,93
+Motor Yacht,Bayliner power boats,Used boat,1996.0,12.12,3.99,GRP,79000.0,Netherlands, Leeuwarden,99
+Flybridge,Dellapasqua power boats,Used boat,2002.0,11.3,3.6,GRP,79000.0,Italy, Veneto ,132
+Motor Yacht,Treffer power boats,Used boat,1995.0,14.7,4.5,Steel,79000.0,Netherlands, onbekend,170
+Trawler,Pedro power boats,Used boat,2002.0,9.32,3.5,Steel,78000.0,Germany, Konstanz (DE),115
+Motor Yacht,Prinz power boats,Used boat,2004.0,10.88,3.35,GRP,78000.0,Italy, Toscana ,63
+Sport Boat,Four Winns power boats,new boat from stock,2019.0,6.5,2.55,GRP,83229.3,Switzerland, VierwaldstÃ¤ttersee ,337
+Trawler,Vacance power boats,Used boat,2017.0,9.2,3.0,Steel,77500.0,Netherlands, In verkoophaven,40
+Motor Yacht,Bavaria power boats,Used boat,2007.0,9.45,2.98,GRP,76500.0,Belgium, regio Gent,244
+Flybridge,Valk power boats,Used boat,1979.0,14.6,4.1,Steel,75000.0,Netherlands, In verkoophaven,82
+Center console boat,Sessa power boats,Used boat,2009.0,8.93,2.99,GRP,75000.0,Italy, Campania ,111
+Motor Yacht,Edership power boats,Diesel,1986.0,13.08,4.3,GRP,74990.0,Germany, Verkaufshafen Brandenburg-Plaue,104
+Sport Boat,Bayliner power boats,Used boat,2004.0,9.65,3.35,GRP,74900.0,Netherlands, In verkoophaven,114
+Trawler,Pedro power boats,Used boat,2001.0,10.6,3.5,Steel,74900.0,Netherlands, onbekend,98
+Motor Yacht,Balt Yacht power boats,new boat from stock,2020.0,8.48,2.75,GRP,74580.0,Germany, Berlin ,188
+Trawler,Super Lauwersmeer power boats,Used boat,1975.0,11.2,3.45,Steel,74500.0,Netherlands, In verkoophaven,143
+Trawler,Linssen power boats,Used boat,1989.0,11.0,3.45,Steel,72500.0,Netherlands, In verkoophaven,161
+Classic,Rapsody power boats,Used boat,2001.0,8.74,2.45,Wood,72500.0,Netherlands, In verkoophaven,140
+Motor Yacht,Master power boats,Used boat,2017.0,7.7,3.1,GRP,70000.0,France,,96
+Motor Yacht,Super van Craft power boats,Used boat,1973.0,12.65,3.65,Steel,69950.0,Netherlands, Grou,143
+Trawler,Valkkruiser power boats,Used boat,1984.0,11.6,3.75,Steel,69900.0,Netherlands, In verkoophaven,149
+House Boat,Suncamper power boats,Used boat,2018.0,9.5,2.98,GRP,69900.0,Germany, Schlei,162
+Trawler,Koopmans power boats,Used boat,1970.0,12.5,3.7,Steel,69500.0,Netherlands, Grave (NL),96
+Motor Yacht,Valkkruiser power boats,Used boat,1984.0,12.0,3.85,Steel,69500.0,Netherlands, In verkoophaven,167
+Sport Boat,Yamarin power boats,new boat from stock,2020.0,8.02,2.6,GRP,69460.0,Germany, Nordrhein-Westfalen ,213
+Pontoon Boat,Saver power boats,Used boat,2020.0,9.0,2.98,GRP,69000.0,Italy, Friuli Venezia Giulia ,81
+Motor Yacht,Sealine power boats,Used boat,1996.0,11.3,3.7,GRP,69000.0,Netherlands, In verkoophaven,127
+Center console boat,Sessa power boats,Used boat,2006.0,7.49,2.9,GRP,68000.0,Italy, Sardegna ,146
+Motor Yacht,Innovazioni e Progetti power boats,Used boat,2000.0,11.24,3.54,GRP,68000.0,Italy, Campania ,238
+Center console boat,Jeanneau power boats,Used boat,2015.0,8.37,2.98,PVC,67000.0,France,,57
+Motor Yacht,Tristan power boats,Used boat,2000.0,9.6,3.1,GRP,64740.0,Denmark, VestsjÃ¦lland,265
+Center console boat,Rhea power boats,new boat from stock,2019.0,6.9,2.5,GRP,66500.0,Netherlands, onbekend,71
+Cabin Boat,Cranchi power boats,Used boat,2012.0,8.88,2.95,PVC,65000.0,France,,137
+Motor Yacht,Bege power boats,Used boat,2006.0,9.5,3.25,Steel,65000.0,Netherlands, In verkoophaven,106
+Flybridge,Sea Ray power boats,Diesel,1991.0,17.0,4.57,GRP,64990.0,Germany, Triest,203
+Trawler,Gillissen power boats,Used boat,1970.0,11.85,3.65,Steel,64900.0,Netherlands, Binnenkort in verkoophaven,123
+Pontoon Boat,Sylvan Marine power boats,new boat from stock,2020.0,8.25,2.59,GRP,69445.53,Switzerland, VierwaldstÃ¤ttersee ,190
+Sport Boat,Balt Yacht power boats,new boat from stock,2020.0,8.48,2.7,GRP,64879.0,Germany, Potsdam-Deetz,259
+Trawler,Broom power boats,Diesel,1997.0,9.45,3.51,GRP,64850.0,Germany, Werder / Havel,164
+Sport Boat,AMT power boats,new boat from stock,2019.0,6.9,2.6,GRP,69201.0,Switzerland, VierwaldstÃ¤ttersee ,157
+Sport Boat,AMT power boats,new boat from stock,2019.0,6.9,2.6,GRP,69201.0,Switzerland, VierwaldstÃ¤ttersee ,133
+Sport Boat,IRON power boats,new boat on order,2020.0,7.12,2.44,GRP,64599.0,Germany, Kiel,126
+Motor Yacht,Bavaria power boats,Used boat,2010.0,10.4,3.45,GRP,64000.0,Croatia (Hrvatska), onbekend,169
+Motor Yacht,Shiren power boats,Used boat,2016.0,7.98,2.98,GRP,64000.0,Spain, ALMERIA (ES),45
+Sport Boat,IRON power boats,new boat on order,2020.0,7.67,2.44,GRP,63499.0,Germany, Kiel,48
+Sport Boat,Kelt power boats,Used boat,2009.0,8.8,3.19,Plastic,63000.0,Germany, Hamburg ,105
+Trawler,Aquanaut power boats,Used boat,1996.0,10.5,3.5,Steel,62995.0,Netherlands, In verkoophaven,141
+Deck Boat,Sessa power boats,Used boat,2012.0,7.56,2.64,GRP,62800.0,Spain, Mallorca ,62
+Fishing Boat,Jeanneau power boats,new boat from stock,2020.0,7.45,2.54,GRP,62665.0,Switzerland, Lake Constance ,286
+Trawler,Pedro power boats,Used boat,1999.0,10.6,3.5,Steel,62500.0,Netherlands, in onze showroom,109
+Motor Yacht,Azimut power boats,Used boat,1982.0,11.47,3.95,GRP,60000.0,Croatia (Hrvatska), onbekend,67
+Sport Boat,Cranchi power boats,Used boat,1990.0,12.11,3.8,GRP,60000.0,Italy,,87
+Pilothouse,AluForce power boats,new boat from stock,2020.0,8.2,2.5,Aluminium,60000.0,Germany, auf Anfrage,120
+Pilothouse,Jeanneau power boats,new boat from stock,2019.0,6.71,2.54,GRP,59963.0,Switzerland, Lake Constance ,341
+Flybridge,Vrijbuiter power boats,Used boat,1994.0,11.75,3.5,Steel,59900.0,Netherlands, Nieuwe Niedorp,102
+Trawler,Pedro power boats,Used boat,1991.0,10.5,3.3,Steel,59900.0,Netherlands, onbekend,75
+Bowrider,Chaparral power boats,new boat from stock,2018.0,6.4,2.6,GRP,63855.0,Switzerland, Lake Constance ,133
+Motor Yacht,Carver power boats,Used boat,1991.0,12.57,4.02,GRP,59500.0,Netherlands, In verkoophaven,71
+Trawler,Valkkruiser power boats,Used boat,1981.0,10.85,3.6,Steel,59500.0,Netherlands, Vinkeveen,152
+Trawler,Pedro power boats,Used boat,1978.0,10.5,3.4,Steel,59500.0,Netherlands, in onze showroom,58
+Flybridge,Center Craft power boats,Used boat,1982.0,11.27,3.7,GRP,59000.0,Italy, Liguria ,64
+Trawler,Zijlmans power boats,Used boat,1996.0,10.8,3.5,Steel,59000.0,Netherlands, In verkoophaven,78
+Fishing Boat,ARS Mare power boats,Used boat,1992.0,11.71,4.2,GRP,59000.0,Italy, Toscana ,41
+Motor Yacht,Succes power boats,Used boat,1991.0,10.5,3.45,Steel,59000.0,Netherlands, In verkoophaven,72
+Motor Yacht,Gobbi power boats,Used boat,2002.0,9.83,3.3,GRP,59000.0,Italy, Liguria ,88
+Motor Yacht,Master power boats,new boat on order,2020.0,7.7,3.1,GRP,58800.0,France,,105
+Deck Boat,Sessa power boats,new boat from stock,2020.0,8.0,2.64,GRP,58700.0,Italy, Toscana ,109
+Sport Boat,Nordkapp power boats,new boat from stock,2020.0,6.5,2.5,GRP,62645.22,Switzerland, VierwaldstÃ¤ttersee ,96
+Motor Yacht,Valkkruiser power boats,Used boat,1988.0,10.94,3.55,Steel,58500.0,Netherlands, In verkoophaven,53
+Motor Yacht,Succes power boats,Used boat,1989.0,10.5,3.4,Steel,58000.0,Netherlands, Steenbergen (NL),108
+Sport Boat,XO Boats power boats,new boat from stock,2018.0,7.52,2.28,Aluminium,57500.0,Germany, Lake Constance ,186
+Pilothouse,Quicksilver (Brunswick Marine) power boats,new boat on order,2020.0,8.88,2.99,GRP,56999.0,Germany, Kieler Bucht mit Fehmarn ,75
+Trawler,Valkkruiser power boats,Used boat,1982.0,12.0,3.8,Steel,56995.0,Netherlands, In verkoophaven,64
+Motor Yacht,De Boarnstream power boats,Used boat,1991.0,10.5,3.6,Steel,56000.0,Germany, Hard (Voralberg),115
+Sport Boat,Sea Ray power boats,new boat from stock,2020.0,5.97,2.54,GRP,55555.0,Germany, Bayern ,88
+Runabout,Yamarin power boats,new boat from stock,2020.0,6.77,2.54,GRP,55290.0,Germany, auf Anfrage,109
+Pilothouse,Jeanneau power boats,Used boat,2007.0,7.5,2.94,GRP,55000.0,Italy, Toscana ,117
+Sport Boat,Chaparral power boats,Used boat,2010.0,8.84,2.9,GRP,55000.0,Italy, Campania ,129
+Sport Boat,Boston Whaler power boats,Used boat,1990.0,9.3,3.6,GRP,55000.0,Italy, Sardegna ,41
+Sport Boat,Sea Ray power boats,new boat from stock,2018.0,6.55,2.54,GRP,54950.0,Germany, Bayern ,67
+Motor Yacht,Treffer power boats,Used boat,1997.0,9.5,3.1,Steel,54900.0,Netherlands, In verkoophaven,39
+Sport Boat,IRON power boats,new boat on order,2020.0,7.12,2.44,GRP,54699.0,Germany, Kiel,77
+Bowrider,Stingray power boats,new boat from stock,2019.0,6.0,2.39,GRP,54634.0,Germany, kon,190
+Sport Boat,Yamarin power boats,new boat from stock,2020.0,7.55,2.47,Aluminium,54540.0,Germany, auf Anfrage,117
+Trawler,Proficiat power boats,Used boat,1995.0,9.7,3.5,Steel,54500.0,Netherlands, In verkoophaven,101
+Center console boat,ManÃ² power boats,Used boat,2008.0,9.04,3.0,GRP,54000.0,Italy, Campania ,115
+Motor Yacht,BÃ©nÃ©teau power boats,new boat from stock,2020.0,8.23,2.76,GRP,53900.0,Slovak Republic, Slovakia,89
+Center console boat,Jeanneau power boats,new boat from stock,2020.0,6.31,2.52,GRP,53900.0,Germany, BÃ¶nningstedt,104
+Runabout,Quicksilver (Brunswick Marine) power boats,new boat on order,2020.0,8.05,3.0,GRP,53799.0,Germany, Kieler Bucht mit Fehmarn ,75
+Sport Boat,Sea Ray power boats,new boat from stock,2020.0,6.55,2.54,GRP,52999.0,Germany, Bayern ,85
+Sport Boat,Sea Ray power boats,new boat from stock,2019.0,6.55,2.54,GRP,51999.0,Germany, Bayern ,56
+Center console boat,Jeanneau power boats,new boat from stock,2020.0,6.86,2.52,GRP,51900.0,Netherlands, In verkoophaven,31
+Pilothouse,Parker power boats,new boat from stock,2018.0,7.46,2.55,GRP,51015.0,Germany, Nordrhein-Westfalen ,166
+Center console boat,Thunderbird power boats,Used boat,2007.0,7.9,2.5,PVC,50000.0,France,,108
+Sport Boat,Cranchi power boats,Used boat,2006.0,8.57,2.83,GRP,48360.0,Netherlands, Holland,77
+Center console boat,Capelli power boats,Used boat,2011.0,8.15,2.75,PVC,50000.0,France,,107
+Sport Boat,Buster power boats,new boat on order,2020.0,7.2,2.5,Aluminium,53450.1,Switzerland, Safenwil,107
+Motor Yacht,Italmar power boats,Used boat,2007.0,6.9,2.55,GRP,49900.0,Germany, Hock Boote,61
+Trawler,Pedro power boats,Used boat,1988.0,10.0,3.3,Steel,49900.0,Netherlands, In verkoophaven,109
+Flybridge,Princess power boats,Used boat,1988.0,10.74,3.68,GRP,49500.0,Croatia (Hrvatska), In verkoophaven,149
+Deck Boat,Moonday power boats,new boat from stock,2019.0,8.34,2.63,GRP,49500.0,Netherlands, Lemmer,26
+Trawler,Steilsteven power boats,Used boat,1923.0,21.69,4.52,Steel,49500.0,Netherlands, Sneek,90
+Motor Yacht,Proficiat power boats,Used boat,1996.0,10.75,3.4,Steel,49500.0,Netherlands, In verkoophaven,75
+Motor Yacht,Marex power boats,Used boat,2004.0,8.95,2.8,GRP,49500.0,Germany, TÃ¶plitz (Werder),349
+Trawler,Pedro power boats,Used boat,1986.0,10.6,3.4,Steel,49500.0,Netherlands, In verkoophaven,90
+Sport Boat,Cranchi power boats,Used boat,2000.0,9.1,2.9,GRP,49500.0,Netherlands, In verkoophaven,36
+Pilothouse,AluForce power boats,new boat from stock,2020.0,7.4,2.45,Aluminium,49000.0,Germany, auf Anfrage,164
+Bowrider,Glastron power boats,new boat from stock,2019.0,6.2,2.54,GRP,52371.0,Switzerland, Lake Constance ,143
+Deck Boat,Nimbus power boats,Used boat,1999.0,7.9,2.65,GRP,48500.0,Netherlands, In verkoophaven,92
+Pilothouse,Cantieri Nautici Ferrario power boats,Used boat,2019.0,6.4,2.34,GRP,51480.0,Switzerland, Luganersee ,114
+Sport Boat,AMT power boats,new boat from stock,2018.0,6.08,2.35,GRP,51381.0,Switzerland, VierwaldstÃ¤ttersee ,195
+Pilothouse,BÃ©nÃ©teau power boats,new boat from stock,2020.0,5.52,2.4,PVC,47990.0,Spain, Hospitalet del Infante,111
+Pilothouse,BÃ©nÃ©teau power boats,Used boat,2006.0,7.43,2.95,GRP,47500.0,Croatia (Hrvatska), onbekend,101
+Sport Boat,Bayliner power boats,Used boat,2003.0,9.0,3.0,GRP,46900.0,Netherlands, In verkoophaven,218
+Motor Yacht,Nidelv power boats,Used boat,1997.0,9.1,3.05,GRP,46800.0,Netherlands, In verkoophaven,261
+Bowrider,Sea Ray power boats,new boat from stock,2020.0,5.99,2.21,GRP,49886.1,Switzerland, Lake Constance ,247
+Trawler,Valkkruiser power boats,Used boat,1982.0,12.0,3.8,Steel,46500.0,Netherlands, In verkoophaven,92
+Pilothouse,AluForce power boats,new boat from stock,2020.0,7.1,2.45,Aluminium,46260.0,Germany, auf Anfrage,162
+Fishing Boat,Amberg power boats,new boat from stock,2019.0,6.4,2.3,Aluminium,49005.0,Switzerland, Lake of Zurich ,112
+Fishing Boat,Amberg power boats,new boat from stock,2019.0,6.4,2.05,Aluminium,49005.0,Switzerland, Lake of Zurich ,51
+Wakeboard/Wakesurf,MasterCraft power boats,Used boat,2009.0,6.6,2.54,GRP,48510.0,Switzerland, Lake of Zurich ,883
+Sport Boat,Boston Whaler power boats,Used boat,1998.0,9.3,3.6,GRP,45000.0,Italy, Campania ,60
+Sport Boat,Boesch power boats,Used boat,1980.0,5.9,2.6,Wood,45000.0,Austria, WÃ¶rthersee ,154
+Cabin Boat,Quicksilver (Brunswick Marine) power boats,new boat from stock,2020.0,7.88,2.55,GRP,44999.0,Germany, Kieler Bucht mit Fehmarn ,316
+Sport Boat,Rinker power boats,Unleaded,2006.0,7.56,2.59,GRP,44990.0,Germany, Brandenburg,105
+Sport Boat,Marinello power boats,new boat from stock,2015.0,6.8,2.49,GRP,44900.0,Germany, Hock Boote,130
+Trawler,Proficiat power boats,Used boat,1992.0,9.7,3.1,Steel,44500.0,Netherlands, In verkoophaven,102
+Cabin Boat,Quicksilver (Brunswick Marine) power boats,new boat from stock,2020.0,6.02,2.34,GRP,44499.0,Germany, Kieler Bucht mit Fehmarn ,110
+Pilothouse,Finnmaster power boats,new boat from stock,2018.0,6.9,2.59,GRP,47579.4,Switzerland, Neuenburgersee ,181
+Deck Boat,Moonday power boats,new boat from stock,2019.0,6.98,2.34,GRP,43500.0,Netherlands, Lemmer,46
+Sport Boat,Yamarin power boats,new boat from stock,2020.0,6.3,2.35,GRP,46171.62,Switzerland, Lake of Zurich ,250
+Motor Yacht,Master power boats,new boat on order,2020.0,7.34,2.72,GRP,43080.0,France,,128
+Launch,Primeur power boats,Used boat,2019.0,6.95,2.55,GRP,42950.0,Netherlands, In verkoophaven,81
+Motor Yacht,Master power boats,new boat on order,2020.0,6.9,2.72,GRP,42600.0,France,,56
+Cabin Boat,Marco Yachts power boats,Used boat,2000.0,9.0,3.05,GRP,42500.0,Netherlands, In verkoophaven,108
+Flybridge,Riva power boats,Used boat,1976.0,7.52,3.03,GRP,42500.0,France,,101
+Sport Boat,IRON power boats,new boat on order,2020.0,7.67,2.44,GRP,42500.0,Germany, Kiel,49
+Trawler,Haber power boats,Used boat,2008.0,8.0,2.5,GRP,42500.0,Netherlands, In verkoophaven,102
+Motor Yacht,Riva power boats,Used boat,1981.0,12.18,3.85,GRP,42000.0,Italy, Liguria ,244
+Sport Boat,Four Winns power boats,Used boat,2004.0,8.44,2.79,PVC,42000.0,France,,87
+Motor Yacht,Parker power boats,new boat from stock,2018.0,6.45,2.45,GRP,41395.0,Germany, Nordrhein-Westfalen ,101
+Trawler,Hollandia power boats,Used boat,1968.0,11.8,3.6,Steel,41000.0,Netherlands, Brielle,133
+Motor Yacht,Sealine power boats,Used boat,1991.0,10.6,3.5,GRP,40000.0,Spain, Mallorca ,112
+Motor Yacht,Four Winns power boats,Used boat,2006.0,8.7,2.59,GRP,40000.0,Croatia (Hrvatska), onbekend,134
+Cabin Boat,Marinello power boats,new boat from stock,2018.0,7.65,2.55,GRP,39900.0,Germany, Bayern ,251
+Cabin Boat,Skagerrak power boats,Used boat,2002.0,7.2,2.7,GRP,39900.0,Netherlands, In verkoophaven,63
+Launch,Interboat DE power boats,Used boat,2016.0,6.8,2.55,GRP,39900.0,Netherlands, In verkoophaven,99
+Deck Boat,Moonday power boats,new boat from stock,2019.0,6.42,2.27,GRP,39500.0,Netherlands, Lemmer,40
+Motor Yacht,Schottel power boats,Used boat,1965.0,12.0,3.6,Steel,39500.0,Netherlands, Burgum,103
+Trawler,Adventure power boats,Used boat,1992.0,10.0,3.35,Steel,39500.0,Netherlands, In verkoophaven,155
+Trawler,Proficiat power boats,Used boat,1980.0,10.5,3.3,Steel,39500.0,Netherlands, In verkoophaven,140
+Pilothouse,Jeanneau power boats,new boat on order,2020.0,7.93,2.8,GRP,39151.0,Germany, BÃ¶nningstedt / Werft,69
+Motor Yacht,Sessa power boats,Used boat,2007.0,8.3,2.7,GRP,39000.0,Croatia (Hrvatska), onbekend,120
+Launch,Victoria power boats,Used boat,2020.0,5.5,2.5,GRP,38950.0,Netherlands, In verkoophaven,123
+Motor Yacht,Master power boats,new boat on order,2020.0,6.58,2.72,GRP,38640.0,France,,137
+Center console boat,Capelli power boats,Used boat,2019.0,6.43,2.36,PVC,38600.0,France,,90
+Runabout,AMT power boats,new boat from stock,2019.0,6.9,2.6,GRP,38450.0,Germany, Nordrhein-Westfalen ,115
+Center console boat,Rhea power boats,new boat from stock,2020.0,6.9,2.5,GRP,38042.0,Netherlands, In verkoophaven,91
+Cabin Boat,Succes power boats,Diesel,1997.0,8.6,2.99,GRP,37990.0,Germany, Lychen Uckermark,115
+Sport Boat,Yamarin power boats,new boat from stock,2020.0,6.3,2.5,GRP,37780.0,Germany, auf Anfrage,156
+Pilothouse,Jeanneau power boats,new boat from stock,2020.0,6.19,2.46,GRP,37625.0,Switzerland, Lake Constance ,1272
+Sport Boat,IRON power boats,new boat on order,2020.0,7.12,2.44,GRP,37500.0,Germany, Kiel,93
+Motor Yacht,Marex power boats,Used boat,1991.0,10.0,3.27,GRP,35750.0,Denmark, Limfjorden,409
+Sport Boat,Italmar power boats,new boat from stock,2016.0,6.9,2.55,GRP,36900.0,Germany, Hock Boote,90
+Hardtop,Flipper power boats,new boat from stock,2020.0,6.05,2.21,GRP,39105.0,Switzerland, VierwaldstÃ¤ttersee ,324
+Deck Boat,Sunchaser power boats,Used boat,2019.0,6.78,2.5,Aluminium,36000.0,Italy, Lago Maggiore ,76
+Classic,Comar power boats,Used boat,1995.0,12.7,3.6,GRP,36000.0,Italy, Abruzzo - Molise ,237
+Bowrider,Sting power boats,new boat from stock,2017.0,6.1,2.37,GRP,35900.0,Germany, Nordrhein-Westfalen ,139
+Bowrider,Yamarin power boats,new boat from stock,2020.0,6.31,2.32,Aluminium,35020.0,Germany, auf Anfrage,210
+Sport Boat,Mochi Craft power boats,Used boat,1980.0,9.0,3.05,GRP,35000.0,Italy, Toscana ,80
+Motor Yacht,Mochi Craft power boats,Used boat,1986.0,9.38,3.58,GRP,35000.0,Italy, Toscana ,139
+Sport Boat,Boston Whaler power boats,Used boat,1993.0,6.8,2.3,GRP,35000.0,Netherlands,,76
+Wakeboard/Wakesurf,Malibu power boats,Used boat,2005.0,6.7,2.5,GRP,35000.0,Lommel,,405
+Sport Boat,Nordkapp power boats,new boat on order,2018.0,7.05,2.3,GRP,34900.0,Germany, Nordrhein-Westfalen ,116
+Trawler,Delphia power boats,new boat from stock,2020.0,8.05,3.0,GRP,34510.0,Poland, ab Werk,73
+Trawler,Blom power boats,Used boat,1966.0,12.0,3.65,Steel,34500.0,Netherlands, Lauwersoog,142
+Launch,Kapiteinssloep power boats,new boat from stock,2012.0,7.2,2.3,Wood,34500.0,Netherlands, Hardenberg,86
+Pontoon Boat,Saver power boats,Used boat,2020.0,7.1,2.53,GRP,34300.0,Italy, Friuli Venezia Giulia ,153
+Fishing Boat,Thoma power boats,new boat from stock,2020.0,6.6,2.1,GRP,36531.0,Switzerland, MÃ¼hlehorn ,147
+Pilothouse,Parker power boats,new boat from stock,2018.0,6.6,2.5,GRP,34050.0,Germany, Nordrhein-Westfalen ,73
+Motor Yacht,Master power boats,new boat on order,2020.0,6.3,2.68,GRP,33840.0,France,,138
+Sport Boat,Yamarin power boats,new boat from stock,2020.0,6.3,2.35,GRP,33765.0,Germany, auf Anfrage,147
+Sport Boat,Sea Ray power boats,new boat from stock,2018.0,6.55,2.54,GRP,33333.0,Germany, Bayern ,84
+Bowrider,Maxima power boats,new boat from stock,2020.0,7.2,2.5,GRP,33015.0,Germany, Lake Constance ,207
+Sport Boat,Monterey power boats,Used boat,2008.0,7.32,2.55,GRP,33000.0,Croatia (Hrvatska), onbekend,200
+Motor Yacht,B2 Marine power boats,new boat from stock,2020.0,7.0,2.48,GRP,35145.0,Switzerland, Neuenburgersee ,166
+Sport Boat,Thoma power boats,new boat from stock,2020.0,5.6,1.7,GRP,35046.0,Switzerland, Walensee ,522
+Sport Boat,AMT power boats,new boat from stock,2019.0,6.9,2.6,GRP,32500.0,Germany, Erftstadt,50
+Cabin Boat,Cranchi power boats,Used boat,2012.0,7.51,2.83,GRP,34650.0,Switzerland, Lake Geneva ,630
+Motor Yacht,Sunseeker power boats,Used boat,1990.0,9.42,3.3,GRP,34650.0,Switzerland, Ermatingen,706
+Sport Boat,Buster power boats,new boat on order,2020.0,6.05,2.2,Aluminium,34640.1,Switzerland, Safenwil,151
+Bowrider,AMT power boats,new boat from stock,2018.0,5.6,2.25,GRP,34452.0,Switzerland, Bielersee ,279
+Classic,Riva power boats,Used boat,1958.0,5.4,1.9,Wood,32000.0,Germany, Bayern ,309
+Bowrider,AMT power boats,new boat from stock,2019.0,5.15,2.08,GRP,33808.5,Switzerland, VierwaldstÃ¤ttersee ,196
+Bowrider,Yamarin power boats,new boat from stock,2020.0,6.15,2.29,Aluminium,31400.0,Germany, auf Anfrage,89
+Center console boat,Jeanneau power boats,new boat on order,2020.0,7.74,2.52,GRP,31059.0,Germany, BÃ¶nningstedt,59
+Deck Boat,Quicksilver (Brunswick Marine) power boats,new boat from stock,2020.0,7.23,2.55,GRP,30499.0,Germany, Kieler Bucht mit Fehmarn ,176
+Bowrider,Yamarin power boats,new boat from stock,2020.0,6.3,2.35,GRP,30355.0,Germany, auf Anfrage,123
+Motor Yacht,Chaparral power boats,Used boat,2004.0,7.8,2.59,GRP,30000.0,Italy, Campania ,162
+Cabin Boat,Altena power boats,Used boat,1985.0,10.5,3.25,Steel,29995.0,Netherlands, In verkoophaven,100
+Trawler,Succes power boats,Diesel,1979.0,10.5,3.4,Steel,29990.0,Germany, 14712 Rathenow,117
+Sport Boat,Chaparral power boats,Unleaded,1995.0,7.59,2.59,GRP,29990.0,Germany, Verkaufshafen Brandenburg-Plaue,120
+Sport Boat,Marinello power boats,new boat from stock,2015.0,6.45,2.45,GRP,29900.0,Germany, Hock Boote,152
+Sport Boat,Marinello power boats,new boat from stock,2020.0,5.65,2.35,GRP,29900.0,Germany, Hock Boote,158
+Sport Boat,Eolo power boats,Used boat,2017.0,7.3,2.55,GRP,29900.0,Germany, Deutschland,101
+Trawler,Hollandia power boats,Used boat,1978.0,10.5,3.45,Steel,29900.0,Netherlands, In verkoophaven,120
+Sport Boat,Olympic power boats,new boat from stock,2019.0,5.28,2.28,GRP,29500.0,Germany, Bayern ,51
+Sport Boat,ManÃ² power boats,Used boat,2006.0,6.9,2.5,GRP,29500.0,Italy, Toscana ,120
+Runabout,Boesch power boats,Used boat,1971.0,5.8,2.02,Wood,29500.0,Germany, Gardasse,520
+Sport Boat,Jeanneau power boats,new boat from stock,2020.0,6.4,2.48,GRP,29155.0,Germany, BÃ¶nningstedt,62
+Motor Yacht,Coverline power boats,Used boat,2004.0,7.5,2.55,GRP,29000.0,Italy, Toscana ,84
+Center console boat,Rinker power boats,Used boat,2005.0,7.56,2.59,GRP,29000.0,Italy, Liguria ,65
+Motor Yacht,Chaparral power boats,Unleaded,1998.0,9.73,2.97,GRP,28990.0,Germany, Verkaufshafen Brandenburg-Plaue,143
+Cabin Boat,Eolo power boats,new boat from stock,2019.0,6.5,2.55,GRP,28900.0,Germany, Stadtprozelten,350
+Cabin Boat,Marex power boats,Used boat,1990.0,7.1,2.5,GRP,28900.0,Germany, Baden-WÃ¼rttemberg ,273
+Flybridge,Moonraker power boats,Used boat,1980.0,11.0,3.85,GRP,28500.0,Netherlands, In verkoophaven,200
+Deck Boat,Intrepid power boats,Used boat,1992.0,9.78,2.59,GRP,28000.0,Italy, Lombardia - Trentino Alto Adige ,106
+Pontoon Boat,Bluline power boats,new boat from stock,2020.0,7.02,2.42,GRP,28000.0,Italy, Friuli Venezia Giulia ,132
+Pilothouse,Jeanneau power boats,Used boat,2015.0,5.79,2.46,PVC,28000.0,France,,122
+Pilothouse,Shiren power boats,Used boat,2011.0,6.99,2.5,GRP,28000.0,Italy, Toscana ,93
+Pilothouse,Quicksilver (Brunswick Marine) power boats,new boat from stock,2020.0,6.4,2.45,GRP,27799.0,Germany, Kieler Bucht mit Fehmarn ,218
+Bowrider,Yamarin power boats,new boat from stock,2020.0,5.66,2.17,Aluminium,27785.0,Germany, auf Anfrage,139
+Fishing Boat,Selva power boats,Used boat,2014.0,6.4,2.38,GRP,29690.1,Switzerland, Lago Maggiore ,190
+Deck Boat,Quicksilver (Brunswick Marine) power boats,new boat from stock,2020.0,7.23,2.55,GRP,27699.0,Germany, Kieler Bucht mit Fehmarn ,101
+Center console boat,EdgeWater power boats,new boat from stock,2020.0,4.6,2.0,GRP,29601.0,Switzerland, Murtensee ,91
+Cabin Boat,Albin power boats,Diesel,1985.0,9.7,3.25,GRP,27500.0,Germany, Mecklemburg Vorpommern,272
+Cabin Boat,Sting power boats,new boat from stock,2018.0,6.1,2.37,GRP,26900.0,Germany, Nordrhein-Westfalen ,156
+Launch,Antaris power boats,Used boat,2008.0,5.7,2.32,GRP,26900.0,Netherlands, Lemmer,55
+Pilothouse,Viking power boats,new boat from stock,2020.0,6.84,2.5,Aluminium,26500.0,Germany, auf Anfrage,146
+Pontoon Boat,Boston Whaler power boats,Used boat,1982.0,7.5,2.55,GRP,26000.0,Italy, Lazio ,143
+Sport Boat,Cobalt power boats,Used boat,1999.0,7.62,2.59,GRP,26000.0,Italy,,93
+Sport Boat,AMT power boats,new boat from stock,2019.0,6.08,2.35,GRP,25500.0,Germany, Erftstadt,154
+Bowrider,Maxima power boats,new boat from stock,2019.0,6.15,2.3,GRP,25390.0,Germany, Konstanz-Dettingen,261
+Motor Yacht,BWA power boats,new boat from stock,2019.0,5.9,2.5,Hypalon,26918.1,Switzerland, Lake Geneva ,91
+Sport Boat,Gobbi power boats,Used boat,1986.0,7.8,2.51,GRP,25000.0,Italy, Toscana ,114
+Sport Boat,Rinker power boats,Used boat,2000.0,8.23,2.6,GRP,25000.0,Croatia (Hrvatska), onbekend,272
+Pilothouse,Quicksilver (Brunswick Marine) power boats,new boat from stock,2020.0,6.55,2.54,GRP,24999.0,Germany, Kieler Bucht mit Fehmarn ,113
+Deck Boat,Quicksilver (Brunswick Marine) power boats,new boat from stock,2020.0,6.74,2.55,GRP,24999.0,Germany, Kieler Bucht mit Fehmarn ,146
+Center console boat,Jeanneau power boats,new boat on order,2020.0,6.77,2.48,GRP,24990.0,Germany, BÃ¶nningstedt,62
+Sport Boat,Futuro power boats,Display Model,2019.0,5.5,2.0,Aluminium,24990.0,Germany, Lake Constance ,125
+Motor Yacht,Maxum power boats,Unleaded,1997.0,9.07,2.95,GRP,24990.0,Germany, 14770 Brandenburg an der Havel,295
+Fishing Boat,Smartliner power boats,new boat on order,2020.0,6.28,2.24,GRP,26532.0,Switzerland, Lake Geneva ,1430
+Sport Boat,Invictus power boats,Display Model,2020.0,6.1,2.4,GRP,24930.0,Switzerland, Lago Maggiore ,176
+Cabin Boat,Fjord power boats,Used boat,1979.0,9.3,3.25,GRP,24050.0,Denmark, Nordjylland,224
+Sport Boat,Nordkapp power boats,new boat from stock,2017.0,6.06,2.2,GRP,24550.0,Germany, Nordrhein-Westfalen ,192
+Motor Yacht,B2 Marine power boats,new boat from stock,2020.0,5.7,2.15,GRP,26235.0,Switzerland, Neuenburgersee ,189
+Trawler,Proficiat power boats,Used boat,1980.0,9.75,3.0,Steel,24500.0,Netherlands, In verkoophaven,138
+Motor Yacht,Super van Craft power boats,Used boat,1963.0,11.0,3.35,Steel,24500.0,Netherlands, In verkoophaven,248
+Sport Boat,Saver power boats,new boat from stock,2020.0,5.75,2.26,GRP,23990.0,Germany, Bayern ,203
+Cabin Boat,Inter power boats,Diesel,1985.0,7.4,2.55,GRP,23990.0,Germany, Potsdam,176
+Sport Boat,AMT power boats,new boat from stock,2019.0,5.5,2.24,GRP,23900.0,Germany, auf Anfrage,106
+Motor Yacht,Sea Ray power boats,Unleaded,1988.0,9.9,3.4,GRP,23900.0,Germany, Berlin ,231
+Fishing Boat,Smartliner power boats,new boat from stock,2020.0,6.28,2.24,GRP,25443.0,Switzerland, Lake Geneva ,260
+Pontoon Boat,BlueCraft power boats,Display Model,2020.0,5.4,2.55,Aluminium,22500.0,Germany, Nordrhein-Westfalen ,225
+Launch,Valk power boats,new boat from stock,2020.0,8.5,2.74,Steel,22500.0,Netherlands, Loosdrecht,110
+Trawler,Rijo Kruiser power boats,Used boat,1978.0,11.5,3.1,Steel,22500.0,Netherlands, In verkoophaven,197
+Fishing Boat,Thoma power boats,new boat from stock,2018.0,5.5,1.65,GRP,23819.4,Switzerland, Walensee ,259
+Sport Boat,Galia power boats,new boat on order,2020.0,5.7,2.38,GRP,23562.0,Switzerland, Lake of Zurich ,244
+Deck Boat,Quicksilver (Brunswick Marine) power boats,new boat from stock,2020.0,6.74,2.55,GRP,21699.0,Germany, Kieler Bucht mit Fehmarn ,111
+Pilothouse,Drago Boats power boats,Unleaded,2014.0,5.4,2.08,GRP,21500.0,Germany, Verkaufshafen Brandenburg-Plaue,149
+Center console boat,Arkos power boats,Used boat,2016.0,6.47,2.4,GRP,21000.0,Malta,,111
+Bowrider,Quicksilver (Brunswick Marine) power boats,new boat from stock,2020.0,6.2,2.34,GRP,20799.0,Germany, Kieler Bucht mit Fehmarn ,127
+Center console boat,Invictus power boats,Used boat,2017.0,6.1,2.4,GRP,20500.0,Croatia (Hrvatska), onbekend,139
+Deck Boat,Quicksilver (Brunswick Marine) power boats,new boat from stock,2020.0,6.12,2.4,GRP,19999.0,Germany, Kieler Bucht mit Fehmarn ,197
+Classic,Nordson power boats,Used boat,1963.0,8.4,2.65,Wood,13500.0,Netherlands, In verkoophaven,134
+Cabin Boat,Marex power boats,Electric,1988.0,6.5,2.4,GRP,19500.0,Germany, Verkaufshafen Brandenburg-Plaue,167
+Deck Boat,Sessa power boats,new boat from stock,2020.0,5.75,2.34,GRP,19160.0,Italy, Toscana ,201
+Deck Boat,Sport Craft power boats,Used boat,1999.0,7.68,2.6,GRP,19000.0,Italy, Friuli-Venezia Giulia,55
+Trawler,Waddenkruiser power boats,Used boat,1973.0,8.5,3.1,Steel,18995.0,Netherlands, In verkoophaven,156
+Sport Boat,Nordkapp power boats,new boat from stock,2016.0,5.53,2.2,GRP,18950.0,Germany, Grevenbroich,100
+Sport Boat,Aquanaut power boats,Used boat,1981.0,8.5,3.1,Steel,18950.0,Netherlands, In verkoophaven,133
+Motor Yacht,Yamarin power boats,Used boat,2000.0,5.78,2.18,GRP,18900.0,Netherlands, Lemmer,77
+Runabout,Karnic power boats,new boat from stock,2018.0,5.65,2.3,GRP,18399.0,Germany, Lake Constance ,129
+Sport Boat,Viko Yachts power boats,new boat from stock,2017.0,6.1,2.5,GRP,18385.0,Germany, Bayern ,218
+Classic,WeiBo power boats,new boat from stock,2021.0,6.0,1.65,Wood,18300.0,Switzerland, Lake Constance ,129
+Center console boat,Ranieri power boats,new boat from stock,2019.0,6.0,2.38,GRP,18200.0,Italy, Lombardia - Trentino Alto Adige ,183
+Center console boat,Crestliner power boats,new boat from stock,2020.0,4.49,1.92,Aluminium,19468.35,Switzerland, Murtensee ,144
+Sport Boat,Sea Ray power boats,Used boat,1982.0,6.81,2.44,GRP,18000.0,Germany, Lake Constance ,293
+Sport Boat,Olympic power boats,Used boat,2014.0,5.28,2.16,GRP,17999.0,Germany, MÃ¼nchen,123
+Sport Boat,AluForce power boats,new boat from stock,2020.0,5.66,2.1,Aluminium,17900.0,Germany, auf Anfrage,126
+Fishing Boat,Vizion power boats,new boat from stock,2019.0,5.04,2.18,Aluminium,17900.0,Germany, Berlin ,76
+Runabout,Flying Shark power boats,Display Model,2019.0,4.2,1.73,GRP,18810.0,Switzerland, VierwaldstÃ¤ttersee ,534
+Bowrider,Galia power boats,new boat on order,2020.0,5.2,2.1,GRP,18612.0,Switzerland, Lake of Zurich ,243
+Deck Boat,Marinello power boats,new boat from stock,2015.0,5.9,2.48,GRP,16900.0,Germany, Hock Boote,104
+Deck Boat,Marinello power boats,new boat from stock,2017.0,4.7,1.9,GRP,16900.0,Germany, Hock Boote,91
+Cabin Boat,Marinello power boats,new boat from stock,2015.0,5.7,2.35,GRP,16900.0,Germany, Main ,259
+Motor Yacht,Freedom power boats,Used boat,1991.0,8.46,2.48,GRP,16900.0,Germany, LAMPERTHEIM,130
+Pontoon Boat,Cantieri Nautici Ferrario power boats,new boat from stock,2018.0,6.5,2.29,GRP,16650.0,Italy, Dormelletto ,103
+Sport Boat,Karnic power boats,new boat from stock,2020.0,4.9,2.08,GRP,17757.63,Switzerland, Lake of Zurich ,228
+Pontoon Boat,Cranchi power boats,Used boat,1992.0,7.2,2.41,GRP,17721.0,Switzerland, Rancate,342
+Pilothouse,DarekCo power boats,new boat from stock,2019.0,5.4,2.38,GRP,17721.0,Switzerland, Brienzersee ,180
+Center console boat,BÃ©nÃ©teau power boats,Used boat,2006.0,6.03,2.44,PVC,16500.0,France,,56
+Deck Boat,Quicksilver (Brunswick Marine) power boats,new boat from stock,2019.0,6.12,2.4,GRP,15999.0,Germany, Kieler Bucht mit Fehmarn ,111
+Cabin Boat,Renken power boats,Used boat,1999.0,6.24,2.3,GRP,15950.0,Germany, Bayern ,121
+Cabin Boat,Sea Ray power boats,Used boat,1985.0,3.0,8.0,Plastic,16830.0,Switzerland, Neuenburgersee ,589
+Deck Boat,Glastron power boats,Used boat,1995.0,7.0,2.5,GRP,15000.0,Italy, Mar Tirreno,91
+Center console boat,Navalplastica power boats,Used boat,2007.0,6.4,2.0,GRP,15000.0,Italy, Toscana ,91
+Cabin Boat,Polaris power boats,Diesel,1982.0,7.75,2.66,GRP,14990.0,Germany, Verkaufshafen Brandenburg-Plaue,165
+Sport Boat,Boston Whaler power boats,Used boat,2009.0,4.03,1.78,GRP,14750.0,Netherlands, In verkoophaven,105
+Working Boat,Viking power boats,new boat from stock,2020.0,5.5,2.17,Aluminium,14550.0,Germany, Erftstadt,354
+Cabin Boat,Albin power boats,Used boat,1975.0,7.6,2.6,GRP,14000.0,Netherlands, Lemmer,120
+Deck Boat,Quicksilver (Brunswick Marine) power boats,new boat from stock,2020.0,5.55,2.29,GRP,13999.0,Germany, Kieler Bucht mit Fehmarn ,223
+Sport Boat,Windy power boats,Used boat,1986.0,6.7,2.5,GRP,14751.0,Switzerland, Lake Constance ,604
+Fishing Boat,Starweld power boats,new boat from stock,2020.0,5.03,2.08,Aluminium,14800.5,Switzerland, Murtensee ,229
+Sport Boat,Viking power boats,new boat from stock,2020.0,5.5,2.17,Aluminium,13800.0,Germany, Erftstadt,165
+Pontoon Boat,Cantieri Nautici Ferrario power boats,new boat from stock,2018.0,6.5,2.29,GRP,13800.0,Italy, Dormelletto ,82
+Bowrider,Trimarchi  power boats,new boat from stock,2020.0,5.7,2.1,GRP,14355.0,Switzerland, Kriens,434
+Bowrider,Olympic power boats,new boat from stock,2018.0,4.9,1.95,GRP,14352.03,Switzerland, Murtensee ,146
+Sport Boat,Ranieri International power boats,new boat from stock,2020.0,5.1,2.1,GRP,13200.0,Germany, Baden-WÃ¼rttemberg ,182
+Deck Boat,Viking power boats,new boat from stock,2020.0,5.5,2.17,Aluminium,13050.0,Germany, Ab Werft,174
+Cabin Boat,Marino Costruzioni Nautiche power boats,Used boat,2019.0,6.28,2.3,GRP,13000.0,Italy, Lombardia - Trentino Alto Adige ,273
+Working Boat,Armee Suisse power boats,Used boat,2002.0,5.69,2.1,GRP,13860.0,Switzerland, Sihlsee ,217
+Deck Boat,Marinello power boats,new boat from stock,2019.0,5.4,2.3,GRP,12900.0,Germany, Hock Boote,231
+Trawler,Succes power boats,Used boat,1980.0,9.0,2.5,Steel,12900.0,Netherlands, In verkoophaven,157
+Sport Boat,Bayliner power boats,Unleaded,1985.0,8.0,2.5,GRP,12490.0,Germany, Verkaufshafen Brandenburg-Plaue,241
+Fishing Boat,Vizion power boats,new boat from stock,2019.0,4.4,1.9,Aluminium,12300.0,Germany, Berlin ,119
+Center console boat,Karel power boats,new boat on order,2020.0,5.5,2.1,GRP,13068.0,Switzerland, Lake of Zurich ,528
+Sport Boat,Sting power boats,new boat from stock,2016.0,5.3,2.15,GRP,12150.0,Germany, Grevenbroich,88
+Sport Boat,Viko power boats,new boat from stock,2020.0,6.1,2.5,GRP,11800.0,Germany, Hamburg ,296
+Fishing Boat,Lund Boats power boats,new boat from stock,2020.0,4.93,1.87,Aluminium,12622.5,Switzerland, Lake Geneva ,215
+Cabin Boat,Quicksilver (Brunswick Marine) power boats,new boat from stock,2020.0,5.05,2.12,GRP,11699.0,Germany, Kieler Bucht mit Fehmarn ,295
+Fishing Boat,VBoats power boats,new boat from stock,2019.0,4.58,1.84,Aluminium,12276.0,Switzerland, Bouveret,218
+Trawler,Cascaruda power boats,Used boat,1975.0,9.0,2.75,Steel,10900.0,Netherlands, In verkoophaven,339
+Sport Boat,AMT power boats,new boat from stock,2020.0,4.72,2.05,GRP,10890.0,Germany, auf Anfrage,109
+Deck Boat,Moonday power boats,new boat from stock,2019.0,5.4,2.1,GRP,10823.0,Netherlands, Lemmer,85
+Sport Boat,Galia power boats,new boat on order,2020.0,4.75,1.95,GRP,11484.0,Switzerland, Lake of Zurich ,289
+Center console boat,Nireus power boats,Display Model,2020.0,4.9,1.9,GRP,11385.0,Switzerland, VierwaldstÃ¤ttersee ,341
+Sport Boat,Nireus power boats,new boat from stock,2019.0,4.95,1.9,GRP,11286.0,Switzerland, VierwaldstÃ¤ttersee ,274
+Sport Boat,Terhi power boats,new boat from stock,2020.0,4.8,1.85,Thermoplastic,10490.0,Germany, BÃ¶nningstedt,56
+Bowrider,Terhi power boats,new boat from stock,2020.0,4.8,1.85,Thermoplastic,10490.0,Germany, BÃ¶nningstedt,147
+Fishing Boat,Vizion power boats,new boat from stock,2019.0,4.4,1.9,Aluminium,10400.0,Germany, Berlin ,107
+Runabout,Solcio power boats,Unleaded,1976.0,5.6,2.25,GRP,9999.0,Germany, Berlin ,226
+Cabin Boat,Century power boats,Unleaded,1980.0,7.0,2.5,GRP,9990.0,Germany, Verkaufshafen Brandenburg-Plaue,137
+Sport Boat,Sting power boats,new boat from stock,2016.0,4.88,2.03,GRP,9975.0,Germany, Grevenbroich,109
+Motor Yacht,Fiberline power boats,Used boat,2015.0,4.4,1.65,GRP,9900.0,Germany, Hock Boote,43
+Sport Boat,BlueCraft power boats,new boat from stock,2019.0,4.85,1.82,GRP,9899.0,Germany, Nordrhein-Westfalen ,240
+Trawler,Holland StahlverdrÃ¤nger power boats,Used boat,1972.0,10.0,3.0,Steel,9800.0,Germany, Lake Constance ,362
+Pontoon Boat,Cantieri Nautici Ferrario power boats,new boat from stock,2018.0,5.4,2.22,GRP,9450.0,Italy, Dormelletto ,143
+Sport Boat,Marine Pro power boats,new boat from stock,2020.0,3.55,2.0,GRP,9850.5,Switzerland, Neuenburgersee ,169
+Center console boat,Trimarchi  power boats,new boat from stock,2020.0,5.2,1.92,GRP,8300.0,Italy, Lombardia - Trentino Alto Adige ,288
+Sport Boat,BlueCraft power boats,new boat from stock,2019.0,5.3,2.15,GRP,7990.0,Germany, Nordrhein-Westfalen ,214
+Fishing Boat,Sting power boats,new boat from stock,2016.0,5.35,2.3,GRP,7849.0,Germany, Grevenbroich,116
+Deck Boat,Terhi power boats,new boat from stock,2020.0,4.62,1.87,Thermoplastic,7490.0,Germany, BÃ¶nningstedt,224
+Sport Boat,Olympic power boats,new boat from stock,2020.0,4.52,1.95,GRP,7290.0,Germany, Bayern ,151
+Fishing Boat,Vizion power boats,new boat from stock,2019.0,4.1,1.8,Aluminium,7200.0,Germany, Berlin ,85
+Working Boat,Viking power boats,new boat from stock,2020.0,4.6,2.0,Aluminium,6950.0,Germany, Erftstadt,194
+Fishing Boat,Motocraft power boats,new boat from stock,2020.0,4.7,1.9,Aluminium,6920.1,Switzerland, Romanel,243
+Fishing Boat,Thoma power boats,Used boat,1985.0,5.55,1.6,GRP,6831.0,Switzerland, Lake of Zurich ,467
+Motor Yacht,Cranchi power boats,Used boat,1981.0,5.75,2.27,GRP,6732.0,Switzerland, Luganersee ,489
+Fishing Boat,Atlantis power boats,Used boat,2020.0,4.9,1.7,Aluminium,5950.0,Germany, Mecklenburg-Vorpommern ,135
+Sport Boat,BlueCraft power boats,new boat from stock,2020.0,5.1,2.16,GRP,4799.0,Germany, Wesel,203
+Cabin Boat,Princess power boats,Used boat,1974.0,7.2,2.7,GRP,4950.0,Switzerland, Rhein ,1299
+Fishing Boat,DarekCo power boats,new boat from stock,2019.0,3.6,1.6,GRP,3742.2,Switzerland, Brienzersee ,194
